@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveUeNetDevice::UpdateConfig" name="ns3::mmwave::MmWaveUeNetDevice::UpdateConfig">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_net_device.html#a0a4fcca570e373e906de371a03ab2876" title="ns3::mmwave::MmWaveUeNet\lDevice::DoInitialize" alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_net_device.html#ac49a16e0e4ecba2d88382fdaf2c445fc" title="ns3::mmwave::MmWaveUeNet\lDevice::SetCsgId" alt="" coords="260,71,467,112"/>
+</map>

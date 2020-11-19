@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ideal_handover_command_header.html" title="ns3::mmwave::MmWaveIdeal\lHandoverCommandHeader" alt="" coords="127,5,323,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ideal_handover_preparation_info_header.html" title="ns3::mmwave::MmWaveIdeal\lHandoverPreparationInfoHeader" alt="" coords="121,71,329,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_mac_pdu_header.html" title="ns3::mmwave::MmWaveMacPdu\lHeader" alt="" coords="117,136,333,177"/>
+</map>

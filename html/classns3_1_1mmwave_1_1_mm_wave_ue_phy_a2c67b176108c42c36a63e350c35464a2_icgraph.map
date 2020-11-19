@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveUePhy::GenerateDlCqiReport" name="ns3::mmwave::MmWaveUePhy::GenerateDlCqiReport">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a834876b15d429c27354eb31eef517919" title="ns3::mmwave::MmWaveHelper\l::InstallSingleMcUeDevice" alt="" coords="261,5,468,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#ad91a678c4fd8535e846fabe7d5fd8d0a" title="ns3::mmwave::MmWaveHelper\l::InstallSingleUeDevice" alt="" coords="261,71,468,112"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a1582b63ad9b074a8ac729c44ff2a4d7a" title="ns3::mmwave::MmWaveHelper\l::InstallMcUeDevice" alt="" coords="516,5,723,47"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a408458c257e25cf5e97da18898d00a0b" title="ns3::mmwave::MmWaveHelper\l::InstallUeDevice" alt="" coords="516,71,723,112"/>
+</map>

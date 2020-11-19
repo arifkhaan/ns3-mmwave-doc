@@ -1,0 +1,7 @@
+<map id="ns3::mmwave::MmWaveBearerStatsConnector::NotifyNewUeContextEnb" name="ns3::mmwave::MmWaveBearerStatsConnector::NotifyNewUeContextEnb">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a5561380cb684a899c54cfcd1bd7bc531" title="Creates UE Manager path and stores it in m_ueManagerPathByCellIdRnti. " alt="" coords="323,23,569,65"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a9efd567ada6b096ebacdb0e747a43685" title="ns3::mmwave::MmWaveBearer\lStatsConnector::NotifySecondary\lMmWaveEnbAvailable" alt="" coords="617,16,836,72"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a086baa2a78dd7e25bf6b9fc6b27a44d2" title="ns3::mmwave::MmWaveBearer\lStatsConnector::ConnectSecondary\lTracesEnb" alt="" coords="884,16,1116,72"/>
+<area shape="rect" id="node5" href="$namespacens3_1_1mmwave.html#aa17f39007f2f5bf006cf0b692d7eddac" title="Callback function for DL TX statistics for both RLC and PDCP /param arg /param path /param rnti /para..." alt="" coords="1165,5,1379,32"/>
+<area shape="rect" id="node6" href="$namespacens3_1_1mmwave.html#a16bb43a4d55a7f0c4060fd948ab7b760" title="Callback function for UL RX statistics for both RLC and PDCP /param arg /param path /param rnti /para..." alt="" coords="1164,56,1380,83"/>
+</map>

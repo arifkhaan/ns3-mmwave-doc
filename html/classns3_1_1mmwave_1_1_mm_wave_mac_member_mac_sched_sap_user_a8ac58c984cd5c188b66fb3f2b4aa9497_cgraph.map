@@ -1,0 +1,9 @@
+<map id="ns3::mmwave::MmWaveMacMemberMacSchedSapUser::SchedConfigInd" name="ns3::mmwave::MmWaveMacMemberMacSchedSapUser::SchedConfigInd">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html#a1965bdf65259195a2becfd34093f51d8" title="ns3::mmwave::MmWaveEnbMac\l::DoSchedConfigIndication" alt="" coords="293,169,509,211"/>
+<area shape="rect" id="node3" href="$structns3_1_1mmwave_1_1_mac_subheader.html#a70c28595a1a688d448e9305954f9ee96" title="ns3::mmwave::MacSubheader\l::GetSize" alt="" coords="566,5,765,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_phy_sap_provider.html#a3b87be47ef2a33d800c38c2a0f0bc045" title="ns3::mmwave::MmWavePhySap\lProvider::SendMacPdu" alt="" coords="558,71,773,112"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_mac_pdu_tag.html#a8a3b830bec86ddfadbbb83a02fd188b0" title="ns3::mmwave::MmWaveMacPdu\lTag::SetNumSym" alt="" coords="557,136,773,177"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_mac_pdu_tag.html#a433bbc32e1c68f6af9506601e926afd6" title="ns3::mmwave::MmWaveMacPdu\lTag::SetSfn" alt="" coords="557,201,773,243"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_phy_sap_provider.html#a2c201d87dc024139b2b6f4815dfc478e" title="Updates the current NR slot with the allocation info provided by the scheduler. " alt="" coords="558,267,773,308"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html#a7c099007c335db851b860af0e5a855a1" title="Triggers the callback for the SchedulingTraceEnb Trace Source. " alt="" coords="557,332,773,373"/>
+</map>

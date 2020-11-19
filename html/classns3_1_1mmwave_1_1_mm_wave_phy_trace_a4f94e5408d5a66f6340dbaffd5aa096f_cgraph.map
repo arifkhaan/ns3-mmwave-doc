@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWavePhyTrace::GetTypeId" name="ns3::mmwave::MmWavePhyTrace::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_phy_trace.html#a237e32ad92cf631ee38bef91deb4846f" title="Sets the filename of the DL PHY tranmission traces. " alt="" coords="277,5,501,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_phy_trace.html#aba14aeacecfeecf403e99856052a0497" title="Sets the filename of the PHY reception traces. " alt="" coords="277,71,501,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_phy_trace.html#a0a396132b878bee0155b5ce752627ad5" title="Sets the filename of the UL PHY tranmission traces. " alt="" coords="277,136,501,177"/>
+</map>

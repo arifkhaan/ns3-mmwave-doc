@@ -1,0 +1,12 @@
+<map id="ns3::mmwave::MmWaveSpectrumValueHelper::CreateTxPowerSpectralDensity" name="ns3::mmwave::MmWaveSpectrumValueHelper::CreateTxPowerSpectralDensity">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a7ac6851bdc91539135c73927344fc58d" title="Compute the TX Power Spectral Density. " alt="" coords="293,71,508,112"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a1fff2ed1f20a2eae8e83f7e55fe08cf5" title="Compute the TX Power Spectral Density. " alt="" coords="293,136,508,177"/>
+<area shape="rect" id="node11" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a47afe71ef1dd3c30b2f5e53ae03b866a" title="ns3::mmwave::MmWaveEnbPhy\l::UpdateUeSinrEstimate" alt="" coords="561,5,776,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a6092e1df43210252dcaa422751b04e1f" title="ns3::mmwave::MmWaveEnbPhy\l::SetSubChannels" alt="" coords="561,71,776,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a34cd485e785a742f902cb6476b2a4b85" title="ns3::mmwave::MmWaveEnbPhy\l::DoInitialize" alt="" coords="829,39,1044,80"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a85bd9fa7d4e29cac05ff2a2fd2e0320c" title="ns3::mmwave::MmWaveUePhy\l::SetSubChannelsForTransmission" alt="" coords="556,136,781,177"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a1d1efd5680984a5b75af75f91a4c9d06" title="Marks the beginning of a new Transmission Time Interval (TTI). " alt="" coords="833,136,1041,177"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a8e412164ad1282f5e422913eebf77b11" title="Marks the beginning of a new NR slot. " alt="" coords="1092,65,1300,107"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a6f7725f42496ecb63de96c937c257f66" title="Marks the end of a Transmission Time Interval (TTI). " alt="" coords="1348,136,1556,177"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a906b9d0bd8fc65ec6269f66ca948f62e" title="ns3::mmwave::MmWaveUePhy\l::MmWaveUePhy" alt="" coords="1348,65,1556,107"/>
+</map>

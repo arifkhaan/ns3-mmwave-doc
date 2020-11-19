@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveFlexTtiMaxRateMacScheduler::FlowStats" name="ns3::mmwave::MmWaveFlexTtiMaxRateMacScheduler::FlowStats">
+<area shape="rect" id="node3" title="STL class. " alt="" coords="149,87,247,113"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="735,137,851,164"/>
+<area shape="rect" id="node5" href="$structns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_scheduler_1_1_ue_sched_info.html" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacScheduler::UeSchedInfo" alt="" coords="1543,91,1785,133"/>
+<area shape="rect" id="node9" href="$structns3_1_1mmwave_1_1_rlc_pdu_info.html" title="Struct used to schedule the transmission of RLC PDUs. " alt="" coords="704,228,881,255"/>
+</map>

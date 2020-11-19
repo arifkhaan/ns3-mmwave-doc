@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveFlexTtiMacScheduler::DoCschedUeReleaseReq" name="ns3::mmwave::MmWaveFlexTtiMacScheduler::DoCschedUeReleaseReq">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_mac_scheduler.html#a7bba1aab1930e93ff1d86897df0d7a2a" title="ns3::mmwave::MmWaveFlexTti\lMacScheduler::BufferSize2BsrId" alt="" coords="328,5,540,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_mac_csched_sap_provider.html#af6838a0f469304b18ddff2329236e7a9" title="ns3::mmwave::MmWaveFlexTti\lMacCschedSapProvider::CschedUe\lReleaseReq" alt="" coords="317,71,551,127"/>
+</map>

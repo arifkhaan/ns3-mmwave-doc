@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html" title="This class represents a MC LTE + mmWave UE NetDevice, therefore it is a union of the UeNetDevice clas..." alt="" coords="148,5,357,32"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_net_device.html" title="ns3::mmwave::MmWaveNetDevice" alt="" coords="137,56,368,83"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_enb_net_device.html" title="ns3::mmwave::MmWaveEnbNet\lDevice" alt="" coords="416,15,628,57"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_ue_net_device.html" title="ns3::mmwave::MmWaveUeNet\lDevice" alt="" coords="419,81,625,122"/>
+</map>

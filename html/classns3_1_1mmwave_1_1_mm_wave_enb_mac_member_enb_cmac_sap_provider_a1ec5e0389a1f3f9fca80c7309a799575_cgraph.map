@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveEnbMacMemberEnbCmacSapProvider::ConfigureMac" name="ns3::mmwave::MmWaveEnbMacMemberEnbCmacSapProvider::ConfigureMac">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html#a6c38538575d29107582d67db5a2c0aa5" title="ns3::mmwave::MmWaveEnbMac\l::DoConfigureMac" alt="" coords="269,13,485,54"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_provider.html#af90baf9389f975c51da28766419acda4" title="CSCHED_CELL_CONFIG_REQ. " alt="" coords="533,13,772,54"/>
+</map>

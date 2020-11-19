@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveComponentCarrier" name="ns3::mmwave::MmWaveComponentCarrier">
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier_enb.html" title="Defines a single carrier for enb, and contains pointers to MmWaveEnbPhy, MmWaveEnbMac objects..." alt="" coords="5,169,240,211"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier_ue.html" title="ComponentCarrierUe Object, it defines a single Carrier for the Ue. " alt="" coords="264,169,499,211"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveBearerStatsCalculator::DlRxPdu" name="ns3::mmwave::MmWaveBearerStatsCalculator::DlRxPdu">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a583dfd0a311f0562054e72439fd009e3" title="Get the name of the file where the downlink statistics will be stored. " alt="" coords="260,13,507,54"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a95ad4c711565cbc12670a23406ca36fa" title="Get the name of the file where the downlink PDCP statistics will be stored. " alt="" coords="555,5,777,61"/>
+</map>

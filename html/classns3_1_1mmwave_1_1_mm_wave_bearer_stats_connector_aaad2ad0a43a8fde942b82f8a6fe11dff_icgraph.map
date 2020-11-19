@@ -1,0 +1,8 @@
+<map id="ns3::mmwave::MmWaveBearerStatsConnector::GetEnbHandoverEndOutputFilename" name="ns3::mmwave::MmWaveBearerStatsConnector::GetEnbHandoverEndOutputFilename">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a45368e9d7ee433357e4d6f78bffec9a7" title="ns3::mmwave::MmWaveBearer\lStatsConnector::PrintEnbEndHandover" alt="" coords="275,71,525,112"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#af19d99a7b676961cbc1f1fad49347e88" title="Function hooked to HandoverEndOk trace source at eNB RRC, which is fired upon successful termination ..." alt="" coords="573,63,785,119"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a6770c663cb65018ff3af0821fb380f3e" title="Connects trace sinks to appropriate trace sources. " alt="" coords="833,71,1059,112"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a3f0c9b40c92a5788bb98a7165fe01c0f" title="ns3::mmwave::MmWaveBearer\lStatsConnector::EnableMcStats" alt="" coords="1113,5,1323,47"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#adea3e27fd413595f4a656501885bb244" title="Enables trace sinks for PDCP layer. " alt="" coords="1107,71,1329,112"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a14f7e093713cfcbf836b3b4f19575a12" title="Enables trace sinks for RLC layer. " alt="" coords="1112,136,1324,177"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="ns3::mmwave::MmWaveFlexTtiPfMacScheduler" name="ns3::mmwave::MmWaveFlexTtiPfMacScheduler">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_mac_scheduler.html" title="ns3::mmwave::MmWaveMacScheduler" alt="" coords="2012,17,2263,44"/>
+<area shape="rect" id="node5" href="$structns3_1_1mmwave_1_1_dl_harq_info.html" title="Struct holding the information of a DL HARQ process. " alt="" coords="151,16,325,43"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="180,608,296,635"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="1569,775,1691,801"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="628,1500,725,1527"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_provider.html" title="ns3::mmwave::MmWaveMacSched\lSapProvider" alt="" coords="2022,1677,2253,1718"/>
+<area shape="rect" id="node13" href="$structns3_1_1mmwave_1_1_mm_wave_flex_tti_pf_mac_scheduler_1_1_flow_stats.html" title="ns3::mmwave::MmWaveFlexTti\lPfMacScheduler::FlowStats" alt="" coords="1526,1295,1734,1337"/>
+<area shape="rect" id="node47" href="$structns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_provider_1_1_sched_dl_rlc_buffer_req_parameters.html" title="ns3::mmwave::MmWaveMacSched\lSapProvider::SchedDlRlcBufferReq\lParameters" alt="" coords="1515,1507,1745,1563"/>
+<area shape="rect" id="node16" href="$structns3_1_1mmwave_1_1_mm_wave_flex_tti_pf_mac_scheduler_1_1_ue_sched_info.html" title="ns3::mmwave::MmWaveFlexTti\lPfMacScheduler::UeSchedInfo" alt="" coords="1049,294,1257,335"/>
+<area shape="rect" id="node19" href="$structns3_1_1mmwave_1_1_rlc_pdu_info.html" title="Struct used to schedule the transmission of RLC PDUs. " alt="" coords="149,107,327,133"/>
+<area shape="rect" id="node23" href="$structns3_1_1mmwave_1_1_ul_harq_info.html" title="Struct holding the information of an UL HARQ process. " alt="" coords="151,1335,325,1361"/>
+<area shape="rect" id="node26" href="$structns3_1_1mmwave_1_1_mm_wave_flex_tti_pf_mac_scheduler_1_1_alloc_map_elem.html" title="ns3::mmwave::MmWaveFlexTti\lPfMacScheduler::AllocMapElem" alt="" coords="1525,463,1735,505"/>
+<area shape="rect" id="node28" href="$classns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_provider.html" title="Provides the CSCHED SAP. " alt="" coords="2018,1742,2257,1783"/>
+<area shape="rect" id="node49" href="$structns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_provider_1_1_csched_cell_config_req_parameters.html" title="Parameters of the API primitives. " alt="" coords="2018,961,2257,1017"/>
+<area shape="rect" id="node33" href="$structns3_1_1mmwave_1_1_mm_wave_flex_tti_pf_mac_scheduler_1_1_ul_cqi_map_elem.html" title="ns3::mmwave::MmWaveFlexTti\lPfMacScheduler::UlCqiMapElem" alt="" coords="1523,654,1737,695"/>
+<area shape="rect" id="node39" href="$classns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_user.html" title="ns3::mmwave::MmWaveMacCsched\lSapUser" alt="" coords="2018,1807,2257,1849"/>
+<area shape="rect" id="node40" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_user.html" title="ns3::mmwave::MmWaveMacSched\lSapUser" alt="" coords="2022,1873,2253,1914"/>
+<area shape="rect" id="node42" href="$structns3_1_1mmwave_1_1_slot_alloc_info.html" title="Struct holding the scheduling information of a slot. " alt="" coords="583,1691,770,1717"/>
+<area shape="rect" id="node43" href="$structns3_1_1mmwave_1_1_sfn_sf.html" title="Struct holding the numerology information such as frame, subframe, slot and (eventually) starting OFD..." alt="" coords="165,1661,311,1688"/>
+</map>

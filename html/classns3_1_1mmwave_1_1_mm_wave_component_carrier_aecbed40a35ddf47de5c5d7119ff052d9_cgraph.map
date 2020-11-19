@@ -1,0 +1,10 @@
+<map id="ns3::mmwave::MmWaveComponentCarrier::GetTypeId" name="ns3::mmwave::MmWaveComponentCarrier::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#add83c9c2654a7fb248b8f1676dc6166b" title="Get the antenna used by the device in the component carrier. " alt="" coords="288,5,523,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a3935dc0d0e90492e5e58d5a96ed55274" title="Returns the CSG ID of the eNodeB. " alt="" coords="288,71,523,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a3e41ea19790da3ea8f4d6509a6468ab7" title="Returns the CSG indication flag of the eNodeB. " alt="" coords="288,136,523,177"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a20f90a7bf2876391b0ef2bdd071b58db" title="Checks if the carrier is the primary carrier. " alt="" coords="288,201,523,243"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a217dec9472c8a9004217cf15e6a04dd1" title="Set the antenna used by the device in the component carrier. " alt="" coords="288,267,523,308"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a826e0b57c4e662d350483cc26bd042e8" title="Set as primary carrier. " alt="" coords="288,332,523,373"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a20207ce79cb19cb1ea874031e60500e6" title="Associate the eNodeB device with a particular CSG. " alt="" coords="288,397,523,439"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#ab668a9a7a50283f7de9734db07c31d8b" title="Enable or disable the CSG indication flag. " alt="" coords="288,463,523,504"/>
+</map>

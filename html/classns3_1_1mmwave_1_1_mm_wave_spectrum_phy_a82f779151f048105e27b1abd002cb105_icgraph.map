@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveSpectrumPhy::GetRxAntenna" name="ns3::mmwave::MmWaveSpectrumPhy::GetRxAntenna">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#a2aad7746a9a491ef78a8715534d606ab" title="ns3::mmwave::MmWaveSpectrum\lPhy::StartTxDataFrames" alt="" coords="277,5,501,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#ab9b1fec5dc1a1a02861e2013a0079c18" title="ns3::mmwave::MmWaveSpectrum\lPhy::StartTxDlControlFrames" alt="" coords="277,71,501,112"/>
+</map>

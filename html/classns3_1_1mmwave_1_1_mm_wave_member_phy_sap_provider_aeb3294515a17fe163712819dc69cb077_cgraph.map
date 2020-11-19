@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveMemberPhySapProvider::SendRachPreamble" name="ns3::mmwave::MmWaveMemberPhySapProvider::SendRachPreamble">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#a725d444bc15af81be323675c1ca90a97" title="ns3::mmwave::MmWavePhy\l::SendRachPreamble" alt="" coords="293,5,484,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#ab7bcbcdfa9d1e8980b8f35e674bb637d" title="ns3::mmwave::MmWavePhy\l::SetControlMessage" alt="" coords="532,5,723,47"/>
+</map>

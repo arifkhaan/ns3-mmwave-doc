@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::McUeNetDevice::GetNode" name="ns3::mmwave::McUeNetDevice::GetNode">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a7a6fbb4df6b63464d06050595bc1c3af" title="ns3::mmwave::MmWaveHelper\l::AttachMcToClosestEnb" alt="" coords="263,5,469,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a97883fd8d54baf29591e9ef18c5ed4ba" title="Attach MC ueDevices to the closest LTE enbDevice, register all MmWave eNBs to the MmWaveUePhy..." alt="" coords="517,5,724,47"/>
+</map>

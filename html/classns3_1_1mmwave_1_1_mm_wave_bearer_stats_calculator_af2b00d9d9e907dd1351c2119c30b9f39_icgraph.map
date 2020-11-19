@@ -1,0 +1,9 @@
+<map id="ns3::mmwave::MmWaveBearerStatsCalculator::GetUlPdcpOutputFilename" name="ns3::mmwave::MmWaveBearerStatsCalculator::GetUlPdcpOutputFilename">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#ae23836b6949ea764b0ca40a695ce52d1" title="Get the name of the file where the uplink statistics will be stored. " alt="" coords="276,103,523,144"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a818d43c168784df2f6618d2315c40b2b" title="Called after each epoch to write collected statistics to output files. " alt="" coords="571,37,777,79"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a5d7788cf0bcf948f4acf3e28a0ec9cbd" title="Notifies the stats calculator that an uplink reception has occurred. " alt="" coords="571,103,777,144"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#aa926126c1fa60aae3589eb4ca94705bb" title="Notifies the stats calculator that an uplink transmission has occurred. " alt="" coords="571,168,777,209"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a9603ebca97f30b1ca41d0be7c0879966" title="ns3::mmwave::MmWaveBearer\lStatsCalculator::DoDispose" alt="" coords="825,5,1032,47"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a16cc16f123044fda7d3164ac436e2152" title="Function called in every endEpochEvent. " alt="" coords="825,71,1032,112"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#ab024d3f1107b34f740e862aa29485496" title="Reschedules EndEpoch event. " alt="" coords="1080,71,1329,112"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="ns3::mmwave::MmWaveUePhy::ReceiveControlMessageList" name="ns3::mmwave::MmWaveUePhy::ReceiveControlMessageList">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy_sap_user.html#a43b4ef899bdbd5a2540fae3cffe9d8a8" title="Receive SendLteControlMessage (PDCCH map, CQI feedbacks) using the ideal control channel. " alt="" coords="261,5,485,47"/>
+</map>

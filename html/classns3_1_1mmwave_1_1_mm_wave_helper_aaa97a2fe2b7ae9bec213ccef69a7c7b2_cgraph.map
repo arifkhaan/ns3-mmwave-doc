@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveHelper::AddX2Interface" name="ns3::mmwave::MmWaveHelper::AddX2Interface">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_core_network_stats_calculator.html#ac955fd2404c1bed47051cf6b875f52af" title="ns3::mmwave::CoreNetwork\lStatsCalculator::LogX2Packet" alt="" coords="260,13,459,54"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_core_network_stats_calculator.html#aec4a3c1b9e98a727bda36055a3a32ba4" title="ns3::mmwave::CoreNetwork\lStatsCalculator::GetX2Output\lFilename" alt="" coords="507,5,703,61"/>
+</map>

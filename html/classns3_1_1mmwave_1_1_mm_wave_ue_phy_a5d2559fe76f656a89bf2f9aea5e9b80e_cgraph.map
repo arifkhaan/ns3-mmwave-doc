@@ -1,0 +1,8 @@
+<map id="ns3::mmwave::MmWaveUePhy::DoSynchronizeWithEnb" name="ns3::mmwave::MmWaveUePhy::DoSynchronizeWithEnb">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a446038380e8c88cac0fa893a94708cea" title="ns3::mmwave::MmWaveUePhy\l::DoSynchronizeWithEnb" alt="" coords="261,71,469,112"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a3e77b8dc3b5bc4c1a4f0aab33767a726" title="ns3::mmwave::MmWaveUePhy\l::RegisterToEnb" alt="" coords="517,71,725,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy_sap_user.html#acab7b07ad91ac7dc257bfd3a7a501acd" title="When PHY connects to a new eNB, update the configuration parameters. " alt="" coords="780,5,1025,47"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#a7ff44af0d862f39c5969bfbaead7da62" title="Sets the control data allocation within a NR slot. " alt="" coords="807,71,998,112"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_value_helper.html#a61c3ac8398d252c4afb17d9c9f7b25cb" title="ns3::mmwave::MmWaveSpectrum\lValueHelper::CreateNoisePowerSpectral\lDensity" alt="" coords="773,137,1032,193"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_value_helper.html#a105e28dbe27a67868973441d66d1fc81" title="ns3::mmwave::MmWaveSpectrum\lValueHelper::GetSpectrumModel" alt="" coords="1080,144,1304,185"/>
+</map>

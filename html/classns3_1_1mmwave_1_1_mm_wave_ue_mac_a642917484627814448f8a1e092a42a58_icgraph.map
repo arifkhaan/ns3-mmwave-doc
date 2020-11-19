@@ -1,0 +1,3 @@
+<map id="ns3::mmwave::MmWaveUeMac::DoSlotIndication" name="ns3::mmwave::MmWaveUeMac::DoSlotIndication">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mac_ue_member_phy_sap_user.html#a3706552e7390e59f4ce23693780114f5" title="Send from the PHY layer the current frame, subframe, slot numbers and the current starting OFDM symbo..." alt="" coords="264,5,465,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ns3::mmwave::MmWavePhySapProvider::SendMacPdu" name="ns3::mmwave::MmWavePhySapProvider::SendMacPdu">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#a86a8987a9b935cc8ae947c06f9bd8e6f" title="ns3::mmwave::MmWaveUeMac\l::DoReceiveControlMessage" alt="" coords="271,5,481,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html#a1965bdf65259195a2becfd34093f51d8" title="ns3::mmwave::MmWaveEnbMac\l::DoSchedConfigIndication" alt="" coords="268,71,484,112"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#acb1639d56f37436fdeadc61299d3d28c" title="ns3::mmwave::MmWaveUeMac\l::DoTransmitPdu" alt="" coords="271,136,481,177"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mac_ue_member_phy_sap_user.html#afa1b03a66c348c124d754b59f98f9245" title="Receive SendLteControlMessage (PDCCH map, CQI feedbacks) using the ideal control channel. " alt="" coords="532,5,779,47"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_mac_member_mac_sched_sap_user.html#a8ac58c984cd5c188b66fb3f2b4aa9497" title="ns3::mmwave::MmWaveMacMember\lMacSchedSapUser::SchedConfigInd" alt="" coords="535,71,775,112"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_ue_member_mm_wave_mac_sap_provider.html#a6959158a8dcf9b0c46864bf2a92785b3" title="ns3::mmwave::UeMemberMmWave\lMacSapProvider::TransmitPdu" alt="" coords="539,136,771,177"/>
+</map>

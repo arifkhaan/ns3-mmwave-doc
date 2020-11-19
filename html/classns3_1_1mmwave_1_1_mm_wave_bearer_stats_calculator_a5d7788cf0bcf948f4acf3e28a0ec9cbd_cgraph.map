@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveBearerStatsCalculator::UlRxPdu" name="ns3::mmwave::MmWaveBearerStatsCalculator::UlRxPdu">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#ae23836b6949ea764b0ca40a695ce52d1" title="Get the name of the file where the uplink statistics will be stored. " alt="" coords="260,13,507,54"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#af2b00d9d9e907dd1351c2119c30b9f39" title="Get the name of the file where the uplink PDCP statistics will be stored. " alt="" coords="555,5,777,61"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="ns3::mmwave::UeMemberMmWaveUeCmacSapProvider" name="ns3::mmwave::UeMemberMmWaveUeCmacSapProvider">
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html" title="ns3::mmwave::MmWaveUeMac" alt="" coords="2356,297,2567,324"/>
+<area shape="rect" id="node5" href="$structns3_1_1mmwave_1_1_slot_alloc_info.html" title="Struct holding the scheduling information of a slot. " alt="" coords="1963,173,2150,200"/>
+<area shape="rect" id="node6" href="$structns3_1_1mmwave_1_1_sfn_sf.html" title="Struct holding the numerology information such as frame, subframe, slot and (eventually) starting OFD..." alt="" coords="1125,303,1270,329"/>
+<area shape="rect" id="node23" href="$structns3_1_1mmwave_1_1_mac_pdu_info.html" title="ns3::mmwave::MacPduInfo" alt="" coords="1481,359,1663,385"/>
+<area shape="rect" id="node8" href="$structns3_1_1mmwave_1_1_tti_alloc_info.html" title="Struct holding the scheduling information of a TTI. " alt="" coords="1108,53,1287,80"/>
+<area shape="rect" id="node10" href="$structns3_1_1mmwave_1_1_rlc_pdu_info.html" title="Struct used to schedule the transmission of RLC PDUs. " alt="" coords="160,100,337,127"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="191,213,307,240"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="417,5,532,32"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="1511,500,1633,527"/>
+<area shape="rect" id="node13" href="$structns3_1_1mmwave_1_1_dci_info_element_tdma.html" title="Struct holding the information of a DCI message. " alt="" coords="601,45,836,72"/>
+<area shape="rect" id="node29" href="$structns3_1_1mmwave_1_1_mm_wave_ue_mac_1_1_ul_harq_process_info.html" title="ns3::mmwave::MmWaveUeMac\l::UlHarqProcessInfo" alt="" coords="1092,114,1303,155"/>
+<area shape="rect" id="node16" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy_sap_user.html" title="ns3::mmwave::MmWaveUePhy\lSapUser" alt="" coords="1953,225,2161,266"/>
+<area shape="rect" id="node17" href="$classns3_1_1mmwave_1_1_mm_wave_phy_sap_provider.html" title="ns3::mmwave::MmWavePhySap\lProvider" alt="" coords="1949,290,2164,331"/>
+<area shape="rect" id="node19" href="$structns3_1_1mmwave_1_1_mm_wave_ue_mac_1_1_lc_info.html" title="ns3::mmwave::MmWaveUeMac\l::LcInfo" alt="" coords="1467,410,1677,451"/>
+<area shape="rect" id="node24" href="$classns3_1_1mmwave_1_1_mm_wave_mac_pdu_header.html" title="ns3::mmwave::MmWaveMacPdu\lHeader" alt="" coords="1089,357,1305,398"/>
+<area shape="rect" id="node27" href="$structns3_1_1mmwave_1_1_mac_subheader.html" title="ns3::mmwave::MacSubheader" alt="" coords="149,364,348,391"/>
+</map>

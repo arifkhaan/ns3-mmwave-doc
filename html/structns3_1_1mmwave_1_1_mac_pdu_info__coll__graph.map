@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MacPduInfo" name="ns3::mmwave::MacPduInfo">
+<area shape="rect" id="node2" href="$structns3_1_1mmwave_1_1_sfn_sf.html" title="Struct holding the numerology information such as frame, subframe, slot and (eventually) starting OFD..." alt="" coords="5,295,151,322"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_mac_pdu_header.html" title="ns3::mmwave::MmWaveMacPdu\lHeader" alt="" coords="175,288,391,329"/>
+<area shape="rect" id="node6" href="$structns3_1_1mmwave_1_1_mac_subheader.html" title="ns3::mmwave::MacSubheader" alt="" coords="216,95,415,121"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="439,95,555,121"/>
+</map>

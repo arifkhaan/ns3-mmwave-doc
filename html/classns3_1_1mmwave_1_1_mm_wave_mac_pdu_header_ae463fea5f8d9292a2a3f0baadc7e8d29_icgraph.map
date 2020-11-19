@@ -1,0 +1,8 @@
+<map id="ns3::mmwave::MmWaveMacPduHeader::GetSubheaders" name="ns3::mmwave::MmWaveMacPduHeader::GetSubheaders">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#aa295a962ca5020355233e570d5c5793c" title="ns3::mmwave::MmWaveUeMac\l::DoReceivePhyPdu" alt="" coords="272,5,483,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html#a458ce5605142121427f4b4c225d2c285" title="ns3::mmwave::MmWaveEnbMac\l::DoReceivePhyPdu" alt="" coords="269,71,485,112"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#acb1639d56f37436fdeadc61299d3d28c" title="ns3::mmwave::MmWaveUeMac\l::DoTransmitPdu" alt="" coords="272,136,483,177"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mac_ue_member_phy_sap_user.html#a01599130ecb4112aa3128413c6690670" title="Called by the Phy to notify the MAC of the reception of a new PHY&#45;PDU. " alt="" coords="555,5,757,47"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_mac_enb_member_phy_sap_user.html#a8df38fe4bbff57cce52bb1d98d6a488d" title="Called by the Phy to notify the MAC of the reception of a new PHY&#45;PDU. " alt="" coords="533,71,779,112"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_ue_member_mm_wave_mac_sap_provider.html#a6959158a8dcf9b0c46864bf2a92785b3" title="ns3::mmwave::UeMemberMmWave\lMacSapProvider::TransmitPdu" alt="" coords="540,136,772,177"/>
+</map>

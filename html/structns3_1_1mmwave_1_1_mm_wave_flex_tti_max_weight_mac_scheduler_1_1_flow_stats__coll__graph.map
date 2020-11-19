@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveFlexTtiMaxWeightMacScheduler::FlowStats" name="ns3::mmwave::MmWaveFlexTtiMaxWeightMacScheduler::FlowStats">
+<area shape="rect" id="node2" href="$structns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler_1_1_ue_sched_info.html" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler::\lUeSchedInfo" alt="" coords="1537,136,1745,192"/>
+<area shape="rect" id="node4" href="$structns3_1_1mmwave_1_1_rlc_pdu_info.html" title="Struct used to schedule the transmission of RLC PDUs. " alt="" coords="695,5,873,32"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="726,85,842,112"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="149,136,247,163"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveEnbPhy::SendDataChannels" name="ns3::mmwave::MmWaveEnbPhy::SendDataChannels">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#a70fba7ca1b60cd730e209539ec1cc32a" title="ns3::mmwave::McUeNetDevice\l::GetMmWavePhy" alt="" coords="268,5,477,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_net_device.html#a904ff8ef1e1e10b56dfb26d385693d95" title="ns3::mmwave::MmWaveUeNet\lDevice::GetPhy" alt="" coords="269,71,476,112"/>
+</map>

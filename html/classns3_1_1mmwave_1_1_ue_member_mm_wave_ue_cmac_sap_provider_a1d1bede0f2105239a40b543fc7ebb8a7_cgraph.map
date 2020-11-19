@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::UeMemberMmWaveUeCmacSapProvider::StartContentionBasedRandomAccessProcedure" name="ns3::mmwave::UeMemberMmWaveUeCmacSapProvider::StartContentionBasedRandomAccessProcedure">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#a71bd803a86ff4928b58366a2afa541ae" title="ns3::mmwave::MmWaveUeMac\l::DoStartContentionBasedRandom\lAccessProcedure" alt="" coords="297,5,521,61"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#ae12b50f5fc047aca8d527331932e7dd7" title="ns3::mmwave::MmWaveUeMac\l::RandomlySelectAndSendRaPreamble" alt="" coords="569,13,820,54"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#a3ffcd09d00b2b36c9eaf0220f719b88b" title="ns3::mmwave::MmWaveUeMac\l::SendRaPreamble" alt="" coords="868,13,1079,54"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_phy_sap_provider.html#add0f489dd1a122aa6a593285159103b7" title="ns3::mmwave::MmWavePhySap\lProvider::SendRachPreamble" alt="" coords="1127,13,1341,54"/>
+</map>

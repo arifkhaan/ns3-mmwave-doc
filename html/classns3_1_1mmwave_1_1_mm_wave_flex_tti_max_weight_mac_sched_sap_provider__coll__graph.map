@@ -1,0 +1,22 @@
+<map id="ns3::mmwave::MmWaveFlexTtiMaxWeightMacSchedSapProvider" name="ns3::mmwave::MmWaveFlexTtiMaxWeightMacSchedSapProvider">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_provider.html" title="ns3::mmwave::MmWaveMacSched\lSapProvider" alt="" coords="2002,139,2233,181"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler.html" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler" alt="" coords="2493,1081,2701,1122"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_mac_scheduler.html" title="ns3::mmwave::MmWaveMacScheduler" alt="" coords="1992,285,2243,312"/>
+<area shape="rect" id="node7" href="$structns3_1_1mmwave_1_1_dl_harq_info.html" title="Struct holding the information of a DL HARQ process. " alt="" coords="149,1872,324,1899"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="179,964,295,991"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="1502,1397,1625,1424"/>
+<area shape="rect" id="node34" title="STL class. " alt="" coords="601,224,699,251"/>
+<area shape="rect" id="node15" href="$structns3_1_1mmwave_1_1_ul_harq_info.html" title="Struct holding the information of an UL HARQ process. " alt="" coords="149,1931,324,1957"/>
+<area shape="rect" id="node16" href="$classns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_provider.html" title="Provides the CSCHED SAP. " alt="" coords="1998,807,2237,849"/>
+<area shape="rect" id="node49" href="$structns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_provider_1_1_csched_cell_config_req_parameters.html" title="Parameters of the API primitives. " alt="" coords="1998,661,2237,717"/>
+<area shape="rect" id="node22" href="$structns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler_1_1_alloc_map_elem.html" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler::\lAllocMapElem" alt="" coords="1459,1732,1667,1788"/>
+<area shape="rect" id="node26" href="$classns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_user.html" title="ns3::mmwave::MmWaveMacCsched\lSapUser" alt="" coords="1998,1310,2237,1351"/>
+<area shape="rect" id="node27" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_user.html" title="ns3::mmwave::MmWaveMacSched\lSapUser" alt="" coords="2002,1375,2233,1417"/>
+<area shape="rect" id="node29" href="$structns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler_1_1_flow_stats.html" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler::\lFlowStats" alt="" coords="1459,271,1667,327"/>
+<area shape="rect" id="node30" href="$structns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler_1_1_ue_sched_info.html" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler::\lUeSchedInfo" alt="" coords="1004,463,1212,519"/>
+<area shape="rect" id="node46" href="$structns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_provider_1_1_sched_dl_rlc_buffer_req_parameters.html" title="ns3::mmwave::MmWaveMacSched\lSapProvider::SchedDlRlcBufferReq\lParameters" alt="" coords="1448,140,1679,196"/>
+<area shape="rect" id="node37" href="$structns3_1_1mmwave_1_1_slot_alloc_info.html" title="Struct holding the scheduling information of a slot. " alt="" coords="1470,643,1657,669"/>
+<area shape="rect" id="node38" href="$structns3_1_1mmwave_1_1_sfn_sf.html" title="Struct holding the numerology information such as frame, subframe, slot and (eventually) starting OFD..." alt="" coords="1035,701,1181,728"/>
+<area shape="rect" id="node40" href="$structns3_1_1mmwave_1_1_tti_alloc_info.html" title="Struct holding the scheduling information of a TTI. " alt="" coords="561,643,739,669"/>
+<area shape="rect" id="node43" href="$structns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler_1_1_ul_cqi_map_elem.html" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler::\lUlCqiMapElem" alt="" coords="1459,841,1667,897"/>
+</map>

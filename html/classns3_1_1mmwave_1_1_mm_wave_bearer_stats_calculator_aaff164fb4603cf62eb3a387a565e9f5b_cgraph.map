@@ -1,0 +1,8 @@
+<map id="ns3::mmwave::MmWaveBearerStatsCalculator::GetTypeId" name="ns3::mmwave::MmWaveBearerStatsCalculator::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#af66ac26c458e2c20c96ba6261cc8cb96" title="ns3::mmwave::MmWaveBearer\lStatsCalculator::GetEpoch" alt="" coords="268,5,475,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a50920188ab50a8da35e64a2c4dbe8619" title="ns3::mmwave::MmWaveBearer\lStatsCalculator::GetStartTime" alt="" coords="268,71,475,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#af5536c624ccf377db424e799ed851911" title="Set the name of the file where the downlink PDCP statistics will be stored. " alt="" coords="260,137,483,193"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#ad2bcfa2a118240f792e1a707295a0393" title="ns3::mmwave::MmWaveBearer\lStatsCalculator::SetEpoch" alt="" coords="268,217,475,259"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#abe1f840b4b92ce1dbd11165541afdbc5" title="ns3::mmwave::MmWaveBearer\lStatsCalculator::SetStartTime" alt="" coords="268,283,475,324"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#aa67f035d2bff93916a44174d90b7852c" title="Set the name of the file where the uplink PDCP statistics will be stored. " alt="" coords="260,349,483,405"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveEnbPhy::ApplyFilter" name="ns3::mmwave::MmWaveEnbPhy::ApplyFilter">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a219d0ff9d0171bb27f51e25536d21fe8" title="ns3::mmwave::MmWaveEnbPhy\l::MakeAvg" alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#ad5ec7c65e82431ee7a181af54c839192" title="ns3::mmwave::MmWaveEnbPhy\l::MakeVar" alt="" coords="268,71,483,112"/>
+</map>

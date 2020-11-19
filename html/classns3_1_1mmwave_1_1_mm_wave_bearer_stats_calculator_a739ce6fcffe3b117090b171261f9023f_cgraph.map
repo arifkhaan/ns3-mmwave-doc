@@ -1,0 +1,9 @@
+<map id="ns3::mmwave::MmWaveBearerStatsCalculator::WriteUlResults" name="ns3::mmwave::MmWaveBearerStatsCalculator::WriteUlResults">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a219a90db5a8159d4c8aa201014c50b98" title="Gets the attached Enb cellId. " alt="" coords="277,5,483,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a0e63dcf659156d2cdfacd903e2f76e0c" title="Gets the uplink RLC to RLC statistics: average, min, max and standard deviation. " alt="" coords="271,71,489,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#abccbea00288a7ef7e5ed95f9f9e0f92c" title="Gets the uplink PDU size statistics: average, min, max and standard deviation. " alt="" coords="263,136,497,177"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#aed513cc4c1603d06485a86ac3e7b5b94" title="Gets the number of received uplink data bytes. " alt="" coords="277,201,483,243"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a7582ff40875018ad07a558ea4b92f02e" title="Gets the number of received uplink packets. " alt="" coords="271,267,489,308"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#acfd284c6ea54a86976410198aa9024a1" title="Gets the number of transmitted uplink data bytes. " alt="" coords="277,332,483,373"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a38a6b5478e769db271647196094833f3" title="Gets the number of transmitted uplink packets. " alt="" coords="271,397,489,439"/>
+</map>

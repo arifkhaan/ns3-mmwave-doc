@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::UeMemberMmWaveUeCmacSapProvider::Reset" name="ns3::mmwave::UeMemberMmWaveUeCmacSapProvider::Reset">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#a24e79c37f676119d4f2307eafd2647b8" title="ns3::mmwave::MmWaveUeMac\l::DoReset" alt="" coords="285,5,496,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#ae2e1d27f95887309f5e31f443e5b65bf" title="ns3::mmwave::MmWaveUeMac\l::SetConfigurationParameters" alt="" coords="544,5,755,47"/>
+</map>

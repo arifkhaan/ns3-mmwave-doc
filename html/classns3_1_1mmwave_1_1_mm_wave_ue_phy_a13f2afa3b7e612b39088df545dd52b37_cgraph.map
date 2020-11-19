@@ -1,0 +1,3 @@
+<map id="ns3::mmwave::MmWaveUePhy::DelayPhyDataPacketReceived" name="ns3::mmwave::MmWaveUePhy::DelayPhyDataPacketReceived">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy_sap_user.html#aaf55a74c81edb790b78ce57bf61cc97c" title="Called by the Phy to notify the MAC of the reception of a new PHY&#45;PDU. " alt="" coords="264,5,472,47"/>
+</map>

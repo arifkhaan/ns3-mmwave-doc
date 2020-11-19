@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveEnbMacMemberEnbCmacSapProvider::UeUpdateConfigurationReq" name="ns3::mmwave::MmWaveEnbMacMemberEnbCmacSapProvider::UeUpdateConfigurationReq">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html#a9e5f032d9a12db8df007f8c25f4206b2" title="ns3::mmwave::MmWaveEnbMac\l::UeUpdateConfigurationReq" alt="" coords="269,13,485,54"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_provider.html#a81cb22cb608d1b0847b230b5de70bbc5" title="ns3::mmwave::MmWaveMacCsched\lSapProvider::CschedUeConfigReq" alt="" coords="533,13,772,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWavePhyMacCommon::SetNrNumerology" name="ns3::mmwave::MmWavePhyMacCommon::SetNrNumerology">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_phy_mac_common.html#a25b2d5db18e0a5ff4d2bc66a61cf08f0" title="Configures the PHY layer parameters based on the desired numerology. " alt="" coords="269,5,485,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_phy_mac_common.html#a4f6bd77c2ab35f7474240826c0324dc5" title="ns3::mmwave::MmWavePhyMac\lCommon::GetTypeId" alt="" coords="533,5,749,47"/>
+</map>

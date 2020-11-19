@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveEnbPhy::SetSubChannels" name="ns3::mmwave::MmWaveEnbPhy::SetSubChannels">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a7ac6851bdc91539135c73927344fc58d" title="Compute the TX Power Spectral Density. " alt="" coords="268,13,483,54"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_value_helper.html#a7bce0c21b9f386faaefa4fe9190717de" title="ns3::mmwave::MmWaveSpectrum\lValueHelper::CreateTxPowerSpectral\lDensity" alt="" coords="531,5,771,61"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_value_helper.html#a105e28dbe27a67868973441d66d1fc81" title="ns3::mmwave::MmWaveSpectrum\lValueHelper::GetSpectrumModel" alt="" coords="819,13,1043,54"/>
+</map>

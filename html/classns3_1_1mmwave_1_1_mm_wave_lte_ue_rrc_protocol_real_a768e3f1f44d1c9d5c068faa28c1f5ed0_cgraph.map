@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveLteUeRrcProtocolReal::DoSendNotifySecondaryCellConnected" name="ns3::mmwave::MmWaveLteUeRrcProtocolReal::DoSendNotifySecondaryCellConnected">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_lte_ue_rrc_protocol_real.html#aea48031708c1ef478f4dd721586e8404" title="ns3::mmwave::MmWaveLteUe\lRrcProtocolReal::SetEnbRrcSap\lProvider" alt="" coords="261,5,475,61"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_lte_enb_rrc_protocol_real.html#ae33614a419dc4b701662cc26a626ac27" title="ns3::mmwave::MmWaveLteEnb\lRrcProtocolReal::SetUeRrcSapProvider" alt="" coords="523,13,777,54"/>
+</map>

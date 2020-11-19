@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::McUeNetDevice::GetLteRrc" name="ns3::mmwave::McUeNetDevice::GetLteRrc">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a312cb95a8a5cc940c3b5f656e2200892" title="ns3::mmwave::MmWaveHelper\l::AttachIrToClosestEnb" alt="" coords="301,5,507,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_lte_enb_rrc_protocol_real.html#a16300d3250c17ee841f61083f4f229e6" title="ns3::mmwave::MmWaveLteEnb\lRrcProtocolReal::DoSendSystemInformation" alt="" coords="263,71,545,112"/>
+</map>

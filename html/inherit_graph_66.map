@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_no_op_component_carrier_manager.html" title="The default component carrier manager that forwards all traffic, the uplink and the downlink..." alt="" coords="272,39,541,80"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ba_rr_component_carrier_manager.html" title="ns3::mmwave::MmWaveBaRrComponent\lCarrierManager" alt="" coords="589,5,855,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_rr_component_carrier_manager.html" title="ns3::mmwave::MmWaveRrComponent\lCarrierManager" alt="" coords="597,71,847,112"/>
+</map>

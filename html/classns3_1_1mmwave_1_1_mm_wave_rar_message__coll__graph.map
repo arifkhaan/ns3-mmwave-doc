@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveRarMessage" name="ns3::mmwave::MmWaveRarMessage">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_control_message.html" title="ns3::mmwave::MmWaveControl\lMessage" alt="" coords="652,5,863,47"/>
+<area shape="rect" id="node5" href="$structns3_1_1mmwave_1_1_mm_wave_rar_message_1_1_rar.html" title="a MAC RAR and the corresponding RAPID subheader " alt="" coords="149,74,420,101"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="236,134,333,161"/>
+</map>

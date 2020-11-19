@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveUePhy::TraceUlPhyTransmission" name="ns3::mmwave::MmWaveUePhy::TraceUlPhyTransmission">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a1d1efd5680984a5b75af75f91a4c9d06" title="Marks the beginning of a new Transmission Time Interval (TTI). " alt="" coords="261,5,469,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a6f7725f42496ecb63de96c937c257f66" title="Marks the end of a Transmission Time Interval (TTI). " alt="" coords="773,5,981,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a8e412164ad1282f5e422913eebf77b11" title="Marks the beginning of a new NR slot. " alt="" coords="517,76,725,117"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a906b9d0bd8fc65ec6269f66ca948f62e" title="ns3::mmwave::MmWaveUePhy\l::MmWaveUePhy" alt="" coords="773,76,981,117"/>
+</map>

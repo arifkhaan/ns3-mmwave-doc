@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveLteEnbRrcProtocolReal::DoSendSystemInformation" name="ns3::mmwave::MmWaveLteEnbRrcProtocolReal::DoSendSystemInformation">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#a4e6f145007cc07bff80636e1d8c0fd53" title="ns3::mmwave::McUeNetDevice\l::GetLteRrc" alt="" coords="336,5,545,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_net_device.html#a9fc15beb59b38bdad5b8c389023853c1" title="ns3::mmwave::MmWaveUeNet\lDevice::GetRrc" alt="" coords="337,71,544,112"/>
+</map>

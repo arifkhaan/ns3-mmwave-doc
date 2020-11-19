@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveBearerStatsConnector::PrintUeEndHandover" name="ns3::mmwave::MmWaveBearerStatsConnector::PrintUeEndHandover">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a951e267ade15032f76ee95cab479a997" title="ns3::mmwave::MmWaveBearer\lStatsConnector::GetCellIdStats\lOutputFilename" alt="" coords="313,5,520,61"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a844e80f275a78cb9ab85c4810dd62c76" title="ns3::mmwave::MmWaveBearer\lStatsConnector::GetUeHandoverEnd\lOutputFilename" alt="" coords="297,85,536,141"/>
+</map>

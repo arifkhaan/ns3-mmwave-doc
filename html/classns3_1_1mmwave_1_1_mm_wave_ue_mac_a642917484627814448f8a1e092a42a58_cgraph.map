@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveUeMac::DoSlotIndication" name="ns3::mmwave::MmWaveUeMac::DoSlotIndication">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#a92b452b4074c7a863ca964c9946ff027" title="ns3::mmwave::MmWaveUeMac\l::RefreshHarqProcessesPacketBuffer" alt="" coords="264,5,507,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#a96d02baef08ee18fa2fbf5af84d5b0de" title="ns3::mmwave::MmWaveUeMac\l::SendReportBufferStatus" alt="" coords="280,71,491,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_phy_sap_provider.html#a0937faef3aa8b9b8707a735465e1bd81" title="ns3::mmwave::MmWavePhySap\lProvider::SendControlMessage" alt="" coords="555,71,769,112"/>
+</map>

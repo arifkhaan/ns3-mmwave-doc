@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveFlexTtiMaxWeightMacScheduler::DoSchedSetMcs" name="ns3::mmwave::MmWaveFlexTtiMaxWeightMacScheduler::DoSchedSetMcs">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler.html#afc62ed580263b99ee261c18222d302bf" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler::\lBufferSize2BsrId" alt="" coords="268,5,476,61"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_sched_sap_provider.html#adbcd176990c018c616d767e54527dc43" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacSchedSapProvider\l::SchedSetMcs" alt="" coords="261,85,483,141"/>
+</map>

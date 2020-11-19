@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveNetDevice::GetCcMap" name="ns3::mmwave::MmWaveNetDevice::GetCcMap">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a7a6fbb4df6b63464d06050595bc1c3af" title="ns3::mmwave::MmWaveHelper\l::AttachMcToClosestEnb" alt="" coords="284,5,491,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#aebb8719bbe49edc16c33710bb196d13d" title="Attach to an eNB selecting which one with an index. " alt="" coords="284,71,491,112"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a97883fd8d54baf29591e9ef18c5ed4ba" title="Attach MC ueDevices to the closest LTE enbDevice, register all MmWave eNBs to the MmWaveUePhy..." alt="" coords="539,5,745,47"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a187f01b3dbdc96c3ee21b2cebb53d209" title="ns3::mmwave::MmWaveHelper\l::AttachToClosestEnb" alt="" coords="539,71,745,112"/>
+</map>

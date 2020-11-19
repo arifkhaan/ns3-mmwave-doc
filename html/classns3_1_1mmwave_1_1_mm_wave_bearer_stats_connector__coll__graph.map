@@ -1,0 +1,12 @@
+<map id="ns3::mmwave::MmWaveBearerStatsConnector" name="ns3::mmwave::MmWaveBearerStatsConnector">
+<area shape="rect" id="node4" title="STL class. " alt="" coords="651,66,750,93"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="639,162,762,189"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="661,376,741,402"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="362,368,489,410"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="1111,533,1210,560"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="632,526,769,567"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="359,526,492,567"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="155,533,309,560"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="5,533,105,560"/>
+<area shape="rect" id="node18" href="$structns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector_1_1_cell_id_rnti.html" title="Struct used as key in m_ueManagerPathByCellIdRnti map. " alt="" coords="597,275,804,316"/>
+</map>

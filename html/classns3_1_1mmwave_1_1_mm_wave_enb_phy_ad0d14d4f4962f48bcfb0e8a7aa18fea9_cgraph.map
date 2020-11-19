@@ -1,0 +1,16 @@
+<map id="ns3::mmwave::MmWaveEnbPhy::StartTti" name="ns3::mmwave::MmWaveEnbPhy::StartTti">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#abc98621373cf4af85fbfd5b31288eb75" title="Marks the end of the current Transmission Time Interval (TTI). " alt="" coords="269,5,483,47"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#ae7876562623c56d9de22f90197b4eb0b" title="ns3::mmwave::MmWavePhy\l::GetControlMessages" alt="" coords="281,71,471,112"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#a729747dffd7c1da964ef51c69e2f6c0e" title="ns3::mmwave::MmWavePhy\l::GetPacketBurst" alt="" coords="281,136,471,177"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_mac_pdu_tag.html#a5544ebd75b09cf672a379039dccd76e3" title="ns3::mmwave::MmWaveMacPdu\lTag::GetSfn" alt="" coords="268,201,484,243"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a16864ead7c6f06991720808b92787f50" title="ns3::mmwave::MmWaveEnbPhy\l::SendCtrlChannels" alt="" coords="269,267,483,308"/>
+<area shape="rect" id="node11" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a661b3385669f5f24d8c999f7c0120e73" title="ns3::mmwave::MmWaveEnbPhy\l::SendDataChannels" alt="" coords="269,332,483,373"/>
+<area shape="rect" id="node14" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy_sap_user.html#a6d477613e3b6560f6e2b360a9e311a27" title="Send from the PHY layer the current frame, subframe, slot numbers and the current starting OFDM symbo..." alt="" coords="269,397,483,439"/>
+<area shape="rect" id="node15" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a1c2a2d90536cd25c761d9321bd116d7a" title="Triggers the callback for the ReportDlPhyTransmission Trace Source. " alt="" coords="269,463,483,504"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#adfab48c90781fb4a7df7d0b8e5423025" title="Marks the end of the current NR slot. " alt="" coords="532,64,747,105"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#a5eb034308c0eb3486af06116cc1c914a" title="The purpose of this function is to sync the slot duration to the correct value. " alt="" coords="807,35,997,76"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a5ff5806928a5883f3e5a7a85f3fdd544" title="Marks the beginning of a new NR slot. " alt="" coords="795,296,1009,337"/>
+<area shape="rect" id="node8" href="$structns3_1_1mmwave_1_1_sfn_sf.html#a446d01da03ddd676e8fbd024b78651fb" title="Encodes the struct into an uint64_t. " alt="" coords="567,136,712,177"/>
+<area shape="rect" id="node12" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#a70fba7ca1b60cd730e209539ec1cc32a" title="ns3::mmwave::McUeNetDevice\l::GetMmWavePhy" alt="" coords="535,300,744,341"/>
+<area shape="rect" id="node13" href="$classns3_1_1mmwave_1_1_mm_wave_ue_net_device.html#a904ff8ef1e1e10b56dfb26d385693d95" title="ns3::mmwave::MmWaveUeNet\lDevice::GetPhy" alt="" coords="536,365,743,407"/>
+</map>

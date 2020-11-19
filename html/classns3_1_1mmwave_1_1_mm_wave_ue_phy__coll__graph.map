@@ -1,0 +1,14 @@
+<map id="ns3::mmwave::MmWaveUePhy" name="ns3::mmwave::MmWaveUePhy">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html" title="ns3::mmwave::MmWavePhy" alt="" coords="2805,316,2995,343"/>
+<area shape="rect" id="node5" href="$structns3_1_1mmwave_1_1_slot_alloc_info.html" title="Struct holding the scheduling information of a slot. " alt="" coords="1827,241,2013,268"/>
+<area shape="rect" id="node6" href="$structns3_1_1mmwave_1_1_sfn_sf.html" title="Struct holding the numerology information such as frame, subframe, slot and (eventually) starting OFD..." alt="" coords="1532,279,1677,305"/>
+<area shape="rect" id="node8" href="$structns3_1_1mmwave_1_1_tti_alloc_info.html" title="Struct holding the scheduling information of a TTI. " alt="" coords="1095,217,1273,244"/>
+<area shape="rect" id="node10" href="$structns3_1_1mmwave_1_1_rlc_pdu_info.html" title="Struct used to schedule the transmission of RLC PDUs. " alt="" coords="149,341,327,368"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="180,269,296,296"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="385,392,500,419"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="189,125,287,152"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="1859,469,1981,496"/>
+<area shape="rect" id="node13" href="$structns3_1_1mmwave_1_1_dci_info_element_tdma.html" title="Struct holding the information of a DCI message. " alt="" coords="575,213,809,240"/>
+<area shape="rect" id="node21" href="$classns3_1_1mmwave_1_1_mm_wave_phy_sap_provider.html" title="ns3::mmwave::MmWavePhySap\lProvider" alt="" coords="2272,505,2487,546"/>
+<area shape="rect" id="node24" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy_sap_user.html" title="ns3::mmwave::MmWaveUePhy\lSapUser" alt="" coords="2796,367,3004,409"/>
+</map>

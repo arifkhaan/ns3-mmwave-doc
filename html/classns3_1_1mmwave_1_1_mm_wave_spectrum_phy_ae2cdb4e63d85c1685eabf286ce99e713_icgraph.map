@@ -1,0 +1,11 @@
+<map id="ns3::mmwave::MmWaveSpectrumPhy::ChangeState" name="ns3::mmwave::MmWaveSpectrumPhy::ChangeState">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#aa057b2b1af03aa904d5ad9c0141b424b" title="ns3::mmwave::MmWaveSpectrum\lPhy::EndRxCtrl" alt="" coords="277,5,501,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#a98f5b241f2981df5e4526bd9a521f76c" title="ns3::mmwave::MmWaveSpectrum\lPhy::StartRxCtrl" alt="" coords="549,61,773,103"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#ac2b72b97d96193512a819a4a7013250e" title="ns3::mmwave::MmWaveSpectrum\lPhy::EndRxData" alt="" coords="277,123,501,164"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#a95fb7ad4fb92c94ef74c9207fa7893ff" title="ns3::mmwave::MmWaveSpectrum\lPhy::StartRxData" alt="" coords="549,127,773,168"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#a6887eb6201989aa73b031d9c08901957" title="ns3::mmwave::MmWaveSpectrum\lPhy::EndTx" alt="" coords="277,291,501,332"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#a2aad7746a9a491ef78a8715534d606ab" title="ns3::mmwave::MmWaveSpectrum\lPhy::StartTxDataFrames" alt="" coords="549,245,773,287"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#ab9b1fec5dc1a1a02861e2013a0079c18" title="ns3::mmwave::MmWaveSpectrum\lPhy::StartTxDlControlFrames" alt="" coords="549,336,773,377"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#ac8684a0c7374343bb35b4ac3414af2b2" title="ns3::mmwave::MmWaveSpectrum\lPhy::Reset" alt="" coords="277,408,501,449"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#a970f47727e3d3f2157ab88c188e25f41" title="ns3::mmwave::MmWaveSpectrum\lPhy::StartRx" alt="" coords="821,95,1045,136"/>
+</map>

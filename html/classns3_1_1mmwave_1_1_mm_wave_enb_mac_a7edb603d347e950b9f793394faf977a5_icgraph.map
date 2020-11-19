@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveEnbMac::DoDlHarqFeedback" name="ns3::mmwave::MmWaveEnbMac::DoDlHarqFeedback">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html#a7e4256c7b7e09cc899a286b45639ebba" title="ns3::mmwave::MmWaveEnbMac\l::DoReceiveControlMessage" alt="" coords="269,13,485,54"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_mac_enb_member_phy_sap_user.html#ab31db708068334dd94237d559ec5b41e" title="Receive SendLteControlMessage (PDCCH map, CQI feedbacks) using the ideal control channel. " alt="" coords="533,5,775,61"/>
+</map>

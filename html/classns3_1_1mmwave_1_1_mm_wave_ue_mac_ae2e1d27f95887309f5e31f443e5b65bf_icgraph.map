@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveUeMac::SetConfigurationParameters" name="ns3::mmwave::MmWaveUeMac::SetConfigurationParameters">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#a24e79c37f676119d4f2307eafd2647b8" title="ns3::mmwave::MmWaveUeMac\l::DoReset" alt="" coords="264,5,475,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mac_ue_member_phy_sap_user.html#a850e8bebe0ffe865782802675fb4e4a3" title="When PHY connects to a new eNB, update the configuration parameters. " alt="" coords="269,71,470,127"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_ue_member_mm_wave_ue_cmac_sap_provider.html#ad8e8a38055a326ae2bd6ebefdd8a5647" title="ns3::mmwave::UeMemberMmWave\lUeCmacSapProvider::Reset" alt="" coords="523,5,755,47"/>
+</map>

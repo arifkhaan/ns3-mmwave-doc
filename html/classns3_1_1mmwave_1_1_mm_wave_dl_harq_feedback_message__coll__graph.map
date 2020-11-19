@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveDlHarqFeedbackMessage" name="ns3::mmwave::MmWaveDlHarqFeedbackMessage">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_control_message.html" title="ns3::mmwave::MmWaveControl\lMessage" alt="" coords="14,96,225,137"/>
+<area shape="rect" id="node4" href="$structns3_1_1mmwave_1_1_dl_harq_info.html" title="Struct holding the information of a DL HARQ process. " alt="" coords="249,103,424,130"/>
+</map>

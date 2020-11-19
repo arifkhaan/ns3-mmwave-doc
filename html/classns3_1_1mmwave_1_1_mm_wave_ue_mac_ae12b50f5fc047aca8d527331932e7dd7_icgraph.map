@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveUeMac::RandomlySelectAndSendRaPreamble" name="ns3::mmwave::MmWaveUeMac::RandomlySelectAndSendRaPreamble">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#a71bd803a86ff4928b58366a2afa541ae" title="ns3::mmwave::MmWaveUeMac\l::DoStartContentionBasedRandom\lAccessProcedure" alt="" coords="304,5,528,61"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_ue_member_mm_wave_ue_cmac_sap_provider.html#a1d1bede0f2105239a40b543fc7ebb8a7" title="ns3::mmwave::UeMemberMmWave\lUeCmacSapProvider::StartContention\lBasedRandomAccessProcedure" alt="" coords="576,5,820,61"/>
+</map>

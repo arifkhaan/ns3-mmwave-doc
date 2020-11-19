@@ -1,0 +1,17 @@
+<map id="ns3::mmwave::MmWaveHelper::InstallMcUeDevice" name="ns3::mmwave::MmWaveHelper::InstallMcUeDevice">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a834876b15d429c27354eb31eef517919" title="ns3::mmwave::MmWaveHelper\l::InstallSingleMcUeDevice" alt="" coords="260,235,467,276"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#a20d30114184aac584e9669f0822d5019" title="ns3::mmwave::McUeNetDevice\l::SetNode" alt="" coords="533,5,742,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a2c67b176108c42c36a63e350c35464a2" title="ns3::mmwave::MmWaveUePhy\l::GenerateDlCqiReport" alt="" coords="533,71,741,112"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#a300c13e23b5947e7e183dfb65da106d8" title="ns3::mmwave::MmWaveSpectrum\lPhy::UpdateSinrPerceived" alt="" coords="525,136,749,177"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#ad558dc658122bf6ef55ded751cae38de" title="ns3::mmwave::MmWaveUePhy\l::ReceiveLteDlHarqFeedback" alt="" coords="533,201,741,243"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_beamforming_model.html#a6c30e28782da26ff0d50ef2613b018ca" title="Set the antenna on which beamforming is applied. " alt="" coords="515,267,760,308"/>
+<area shape="rect" id="node11" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#adb0e0a8b7ff9a2bbcfd59cd434a3bbe9" title="ns3::mmwave::MmWaveUePhy\l::PhyDataPacketReceived" alt="" coords="533,332,741,373"/>
+<area shape="rect" id="node14" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a96a4218918c4c4c2d24a32bd8791c08f" title="ns3::mmwave::MmWaveUePhy\l::ReceiveControlMessageList" alt="" coords="533,397,741,439"/>
+<area shape="rect" id="node16" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#a34b468198cb794dcc54eaf73a394351a" title="receive a packet from the lower layers in order to forward it to the upper layers ..." alt="" coords="533,463,742,504"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#abb99fd1d4468b64abb732d4016db3d51" title="ns3::mmwave::MmWaveUePhy\l::CreateDlCqiFeedbackMessage" alt="" coords="814,71,1026,112"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a338e433b9ce0603af32799e746670041" title="ns3::mmwave::MmWaveUePhy\l::DoSendControlMessage" alt="" coords="816,168,1024,209"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#ab7bcbcdfa9d1e8980b8f35e674bb637d" title="ns3::mmwave::MmWavePhy\l::SetControlMessage" alt="" coords="1089,168,1279,209"/>
+<area shape="rect" id="node12" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a13f2afa3b7e612b39088df545dd52b37" title="ns3::mmwave::MmWaveUePhy\l::DelayPhyDataPacketReceived" alt="" coords="815,332,1025,373"/>
+<area shape="rect" id="node13" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy_sap_user.html#aaf55a74c81edb790b78ce57bf61cc97c" title="Called by the Phy to notify the MAC of the reception of a new PHY&#45;PDU. " alt="" coords="1080,332,1288,373"/>
+<area shape="rect" id="node15" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy_sap_user.html#a43b4ef899bdbd5a2540fae3cffe9d8a8" title="Receive SendLteControlMessage (PDCCH map, CQI feedbacks) using the ideal control channel. " alt="" coords="808,397,1032,439"/>
+</map>

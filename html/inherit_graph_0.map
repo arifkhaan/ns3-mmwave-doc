@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_mm_wave_antenna_initialization_test_suite.html" title="This suite tests if the MmWaveHelper correctly initializes the channel model. " alt="" coords="150,5,345,47"/>
+<area shape="rect" id="node3" href="$class_mm_wave_attachment_test.html" title="This suite tests if the beamforming module works properly. " alt="" coords="162,71,333,98"/>
+<area shape="rect" id="node4" href="$class_mm_wave_beamforming_test.html" title="This suite tests if the beamforming module works properly. " alt="" coords="157,122,338,149"/>
+<area shape="rect" id="node5" href="$class_mm_wave_channel_model_initialization_test_suite.html" title="This suite tests if the MmWaveHelper correctly initializes the channel model. " alt="" coords="132,173,363,215"/>
+<area shape="rect" id="node6" href="$class_mmwave_test_suite.html" title="MmwaveTestSuite" alt="" coords="182,239,313,266"/>
+</map>

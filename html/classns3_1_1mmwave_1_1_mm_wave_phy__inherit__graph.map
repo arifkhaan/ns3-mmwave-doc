@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWavePhy" name="ns3::mmwave::MmWavePhy">
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html" title="ns3::mmwave::MmWaveEnbPhy" alt="" coords="5,155,220,181"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html" title="ns3::mmwave::MmWaveUePhy" alt="" coords="245,155,453,181"/>
+</map>

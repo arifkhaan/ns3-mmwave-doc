@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveUeMac::SendReportBufferStatus" name="ns3::mmwave::MmWaveUeMac::SendReportBufferStatus">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#a642917484627814448f8a1e092a42a58" title="Receive from the PHY layer the current frame, subframe, slot numbers and the current starting OFDM sy..." alt="" coords="264,5,475,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mac_ue_member_phy_sap_user.html#a3706552e7390e59f4ce23693780114f5" title="Send from the PHY layer the current frame, subframe, slot numbers and the current starting OFDM symbo..." alt="" coords="523,5,724,47"/>
+</map>

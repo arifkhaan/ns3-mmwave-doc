@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveBsrMessage" name="ns3::mmwave::MmWaveBsrMessage">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_control_message.html" title="ns3::mmwave::MmWaveControl\lMessage" alt="" coords="14,377,225,419"/>
+<area shape="rect" id="node4" href="$structns3_1_1mmwave_1_1_mac_ce_element.html" title="Represents a MAC Control Element. " alt="" coords="249,385,451,411"/>
+<area shape="rect" id="node5" href="$structns3_1_1mmwave_1_1_mac_ce_value.html" title="Represents a MAC Control Element value. " alt="" coords="258,281,445,307"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="293,95,409,121"/>
+</map>

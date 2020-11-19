@@ -1,0 +1,11 @@
+<map id="ns3::mmwave::MmWaveBearerStatsConnector::NotifyHandoverEndOkUe" name="ns3::mmwave::MmWaveBearerStatsConnector::NotifyHandoverEndOkUe">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a3f982b7ce96162fd63977d8b66e8565c" title="Connects DRBs trace sources at UE to RLC and PDCP calculators. " alt="" coords="269,42,517,83"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a0829f0bde9a16f7037e9a9b7d32c12e0" title="Connects SRB1 trace sources at UE to RLC and PDCP calculators. " alt="" coords="265,107,520,149"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#ab67eba93d16af605f8862ddbd762fd10" title="ns3::mmwave::MmWaveBearer\lStatsConnector::PrintUeEndHandover" alt="" coords="271,246,515,287"/>
+<area shape="rect" id="node3" href="$namespacens3_1_1mmwave.html#a73721167434790a50528cc414edb6529" title="Callback function for DL RX statistics for both RLC and PDCP /param arg /param path /param rnti /para..." alt="" coords="579,5,795,32"/>
+<area shape="rect" id="node4" href="$namespacens3_1_1mmwave.html#afc29696b6f065e8216a26833930573a6" title="Callback function for UL TX statistics for both RLC and PDCP /param arg /param path /param rnti /para..." alt="" coords="580,56,795,83"/>
+<area shape="rect" id="node6" href="$namespacens3_1_1mmwave.html#ae2baa93a300c151c72de1e67e1783cea" title="ns3::mmwave::SwitchToLte\lCallback" alt="" coords="595,107,780,149"/>
+<area shape="rect" id="node7" href="$namespacens3_1_1mmwave.html#a8f6a5320d9458b362c3e8dafed4804fb" title="ns3::mmwave::SwitchToMmWave\lCallback" alt="" coords="576,173,799,214"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a844e80f275a78cb9ab85c4810dd62c76" title="ns3::mmwave::MmWaveBearer\lStatsConnector::GetUeHandoverEnd\lOutputFilename" alt="" coords="568,239,807,295"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a951e267ade15032f76ee95cab479a997" title="ns3::mmwave::MmWaveBearer\lStatsConnector::GetCellIdStats\lOutputFilename" alt="" coords="584,319,791,375"/>
+</map>

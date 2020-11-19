@@ -1,0 +1,8 @@
+<map id="ns3::mmwave::MmWaveEnbPhy::GetTypeId" name="ns3::mmwave::MmWaveEnbPhy::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#ab669c8c2280538be61dd2187ce048885" title="ns3::mmwave::MmWaveEnbPhy\l::GetDlSpectrumPhy" alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#a41200ecb1346cb04085f9ff4a6200db8" title="ns3::mmwave::MmWavePhy\l::GetNoiseFigure" alt="" coords="280,71,471,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#ad3be33a2c80778538748077cc0867497" title="ns3::mmwave::MmWaveEnbPhy\l::GetTxPower" alt="" coords="268,136,483,177"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a7e3cda08408564374caa451f5436d3d3" title="ns3::mmwave::MmWaveEnbPhy\l::GetUlSpectrumPhy" alt="" coords="268,201,483,243"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#a7bf8a8ea6f1150880f148fcf11efae64" title="ns3::mmwave::MmWavePhy\l::SetNoiseFigure" alt="" coords="280,267,471,308"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a400bb236d03171c2abe745969dc8d5e4" title="ns3::mmwave::MmWaveEnbPhy\l::SetTxPower" alt="" coords="268,332,483,373"/>
+</map>

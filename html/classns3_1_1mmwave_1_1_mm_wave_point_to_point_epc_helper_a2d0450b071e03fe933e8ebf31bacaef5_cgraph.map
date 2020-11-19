@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWavePointToPointEpcHelper::MmWavePointToPointEpcHelper" name="ns3::mmwave::MmWavePointToPointEpcHelper::MmWavePointToPointEpcHelper">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_point_to_point_epc_helper.html#a18ac6f1fc81dd2131fbe81f25766e228" title="ns3::mmwave::MmWavePoint\lToPointEpcHelper::AssignUeIpv4\lAddress" alt="" coords="276,5,495,61"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_point_to_point_epc_helper.html#a48aa642b667f82237d14b43576d26c62" title="ns3::mmwave::MmWavePoint\lToPointEpcHelper::AssignUeIpv6\lAddress" alt="" coords="276,85,495,141"/>
+</map>

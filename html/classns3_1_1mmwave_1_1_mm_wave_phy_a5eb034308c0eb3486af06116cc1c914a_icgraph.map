@@ -1,0 +1,11 @@
+<map id="ns3::mmwave::MmWavePhy::GetNextSlotDelay" name="ns3::mmwave::MmWavePhy::GetNextSlotDelay">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#adfab48c90781fb4a7df7d0b8e5423025" title="Marks the end of the current NR slot. " alt="" coords="244,64,459,105"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#abc98621373cf4af85fbfd5b31288eb75" title="Marks the end of the current Transmission Time Interval (TTI). " alt="" coords="507,5,721,47"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a6f7725f42496ecb63de96c937c257f66" title="Marks the end of a Transmission Time Interval (TTI). " alt="" coords="247,129,455,171"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#ad0d14d4f4962f48bcfb0e8a7aa18fea9" title="Marks the beginning of a new Transmission Time Interval (TTI). " alt="" coords="769,5,984,47"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a5ff5806928a5883f3e5a7a85f3fdd544" title="Marks the beginning of a new NR slot. " alt="" coords="1032,35,1247,76"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a8c3ff470f1fde359cd93d96c9b00e59e" title="ns3::mmwave::MmWaveEnbPhy\l::MmWaveEnbPhy" alt="" coords="1295,35,1509,76"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a1d1efd5680984a5b75af75f91a4c9d06" title="Marks the beginning of a new Transmission Time Interval (TTI). " alt="" coords="510,129,718,171"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a8e412164ad1282f5e422913eebf77b11" title="Marks the beginning of a new NR slot. " alt="" coords="773,129,981,171"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a906b9d0bd8fc65ec6269f66ca948f62e" title="ns3::mmwave::MmWaveUePhy\l::MmWaveUePhy" alt="" coords="1035,129,1243,171"/>
+</map>

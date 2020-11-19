@@ -1,0 +1,19 @@
+<map id="ns3::mmwave::MmWaveUePhy::SlotIndication" name="ns3::mmwave::MmWaveUePhy::SlotIndication">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#af32665773bcbb656d657be41d3f5eb7e" title="Initializes the slots allocation info for the given frame, subframe and slot. " alt="" coords="261,137,469,179"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a1d1efd5680984a5b75af75f91a4c9d06" title="Marks the beginning of a new Transmission Time Interval (TTI). " alt="" coords="261,365,469,407"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#a7ff44af0d862f39c5969bfbaead7da62" title="Sets the control data allocation within a NR slot. " alt="" coords="535,5,725,47"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a85bd9fa7d4e29cac05ff2a2fd2e0320c" title="ns3::mmwave::MmWaveUePhy\l::SetSubChannelsForTransmission" alt="" coords="517,71,743,112"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#ae7876562623c56d9de22f90197b4eb0b" title="ns3::mmwave::MmWavePhy\l::GetControlMessages" alt="" coords="535,136,725,177"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#afee161952f910f5ccbb23a214ece9a78" title="Triggers the callback for the ReportUlPhyTransmission Trace Source. " alt="" coords="526,201,734,243"/>
+<area shape="rect" id="node11" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#abe04a5f32a04820f51f1c99e5587f072" title="ns3::mmwave::MmWaveUePhy\l::SendCtrlChannels" alt="" coords="526,267,734,308"/>
+<area shape="rect" id="node12" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#a729747dffd7c1da964ef51c69e2f6c0e" title="ns3::mmwave::MmWavePhy\l::GetPacketBurst" alt="" coords="535,332,725,373"/>
+<area shape="rect" id="node14" href="$classns3_1_1mmwave_1_1_mm_wave_mac_pdu_tag.html#a5544ebd75b09cf672a379039dccd76e3" title="ns3::mmwave::MmWaveMacPdu\lTag::GetSfn" alt="" coords="522,397,738,439"/>
+<area shape="rect" id="node15" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a28b19345f7169364cd054da69e780fe3" title="ns3::mmwave::MmWaveUePhy\l::SendDataChannels" alt="" coords="526,463,734,504"/>
+<area shape="rect" id="node16" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy_sap_user.html#a07ba43ba4f376314f8fd789ba3543c8f" title="Send from the PHY layer the current frame, subframe, slot numbers and the current starting OFDM symbo..." alt="" coords="526,528,734,569"/>
+<area shape="rect" id="node17" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a6f7725f42496ecb63de96c937c257f66" title="Marks the end of a Transmission Time Interval (TTI). " alt="" coords="526,593,734,635"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a1fff2ed1f20a2eae8e83f7e55fe08cf5" title="Compute the TX Power Spectral Density. " alt="" coords="791,71,1005,112"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_value_helper.html#a7bce0c21b9f386faaefa4fe9190717de" title="ns3::mmwave::MmWaveSpectrum\lValueHelper::CreateTxPowerSpectral\lDensity" alt="" coords="1053,63,1293,119"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_value_helper.html#a105e28dbe27a67868973441d66d1fc81" title="ns3::mmwave::MmWaveSpectrum\lValueHelper::GetSpectrumModel" alt="" coords="1341,71,1565,112"/>
+<area shape="rect" id="node13" href="$structns3_1_1mmwave_1_1_sfn_sf.html#a446d01da03ddd676e8fbd024b78651fb" title="Encodes the struct into an uint64_t. " alt="" coords="825,332,971,373"/>
+<area shape="rect" id="node18" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#a5eb034308c0eb3486af06116cc1c914a" title="The purpose of this function is to sync the slot duration to the correct value. " alt="" coords="803,593,993,635"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveSpectrumPhy::StartRxCtrl" name="ns3::mmwave::MmWaveSpectrumPhy::StartRxCtrl">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#ae2cdb4e63d85c1685eabf286ce99e713" title="change the state " alt="" coords="549,5,773,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#aa057b2b1af03aa904d5ad9c0141b424b" title="ns3::mmwave::MmWaveSpectrum\lPhy::EndRxCtrl" alt="" coords="277,35,501,76"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#a9331342f3f1b5b13941d78dbb8fc858d" title="ns3::mmwave::MmWaveSpectrum\lPhy::GetDevice" alt="" coords="277,100,501,141"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveHelper::DoInitialize" name="ns3::mmwave::MmWaveHelper::DoInitialize">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a627c432b46beb5c5c92be9761db979c1" title="ns3::mmwave::MmWaveHelper\l::LteChannelModelInitialization" alt="" coords="276,5,483,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a1e9114f6de9c86c9ea9f82f67c92b410" title="ns3::mmwave::MmWaveHelper\l::MmWaveChannelModelInitialization" alt="" coords="260,71,499,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a8c2af41ffadd5796a851543bdd7ed495" title="This method is used to set the MmWaveComponentCarrier map. " alt="" coords="276,136,483,177"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#af4d0ef93ad1e1dab689610f7c382750c" title="This method is used to set the ComponentCarrier map. " alt="" coords="276,201,483,243"/>
+</map>

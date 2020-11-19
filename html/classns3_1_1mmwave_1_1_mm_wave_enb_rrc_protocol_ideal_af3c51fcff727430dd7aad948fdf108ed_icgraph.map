@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveEnbRrcProtocolIdeal::GetTypeId" name="ns3::mmwave::MmWaveEnbRrcProtocolIdeal::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ideal_handover_preparation_info_header.html#a688a6bdedeb46ecd303610cf3e2bfe72" title="ns3::mmwave::MmWaveIdeal\lHandoverPreparationInfoHeader\l::GetInstanceTypeId" alt="" coords="265,5,473,61"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ideal_handover_command_header.html#a0cf1bccac1e40a3d9534bf01d057567b" title="ns3::mmwave::MmWaveIdeal\lHandoverCommandHeader\l::GetInstanceTypeId" alt="" coords="271,85,467,141"/>
+</map>

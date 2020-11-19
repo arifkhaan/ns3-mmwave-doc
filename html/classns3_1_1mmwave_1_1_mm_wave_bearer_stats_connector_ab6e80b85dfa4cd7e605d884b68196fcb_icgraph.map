@@ -1,0 +1,8 @@
+<map id="ns3::mmwave::MmWaveBearerStatsConnector::DisconnectDrbTracesUe" name="ns3::mmwave::MmWaveBearerStatsConnector::DisconnectDrbTracesUe">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#afd075ef26646ff59e95aae5a95c99959" title="Connects all trace sources at UE to RLC and PDCP calculators. " alt="" coords="319,63,545,119"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a8b4fae829839856ae294fe875d95cfde" title="Function hooked to ConnectionReconfiguration trace source at UE RRC, which is fired upon RRC connecti..." alt="" coords="593,63,816,119"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a6770c663cb65018ff3af0821fb380f3e" title="Connects trace sinks to appropriate trace sources. " alt="" coords="864,71,1089,112"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a14f7e093713cfcbf836b3b4f19575a12" title="Enables trace sinks for RLC layer. " alt="" coords="1143,5,1355,47"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#adea3e27fd413595f4a656501885bb244" title="Enables trace sinks for PDCP layer. " alt="" coords="1137,71,1360,112"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a3f0c9b40c92a5788bb98a7165fe01c0f" title="ns3::mmwave::MmWaveBearer\lStatsConnector::EnableMcStats" alt="" coords="1143,136,1354,177"/>
+</map>

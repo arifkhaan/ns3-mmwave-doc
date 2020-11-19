@@ -1,0 +1,23 @@
+<map id="ns3::mmwave::MmWaveEnbMac" name="ns3::mmwave::MmWaveEnbMac">
+<area shape="rect" id="node4" href="$structns3_1_1mmwave_1_1_dl_harq_info.html" title="Struct holding the information of a DL HARQ process. " alt="" coords="161,76,336,103"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="191,344,307,371"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="1443,760,1566,787"/>
+<area shape="rect" id="node28" title="STL class. " alt="" coords="200,816,297,843"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_provider.html" title="ns3::mmwave::MmWaveMacSched\lSapProvider" alt="" coords="1910,1014,2141,1056"/>
+<area shape="rect" id="node9" href="$structns3_1_1mmwave_1_1_dl_cqi_info.html" title="Struct carrying a downlink CQI. " alt="" coords="1026,374,1193,400"/>
+<area shape="rect" id="node32" href="$structns3_1_1mmwave_1_1_mac_ce_value.html" title="Represents a MAC Control Element value. " alt="" coords="1016,424,1203,451"/>
+<area shape="rect" id="node12" href="$structns3_1_1mmwave_1_1_ul_harq_info.html" title="Struct holding the information of an UL HARQ process. " alt="" coords="161,26,336,52"/>
+<area shape="rect" id="node13" href="$classns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_provider.html" title="Provides the CSCHED SAP. " alt="" coords="1906,1080,2145,1121"/>
+<area shape="rect" id="node17" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy_sap_user.html" title="ns3::mmwave::MmWaveEnbPhy\lSapUser" alt="" coords="1918,1145,2133,1186"/>
+<area shape="rect" id="node18" href="$classns3_1_1mmwave_1_1_mm_wave_phy_sap_provider.html" title="ns3::mmwave::MmWavePhySap\lProvider" alt="" coords="1918,1210,2133,1252"/>
+<area shape="rect" id="node20" href="$structns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_provider_1_1_sched_ul_cqi_info_req_parameters.html" title="ns3::mmwave::MmWaveMacSched\lSapProvider::SchedUlCqiInfoReqParameters" alt="" coords="1363,305,1647,346"/>
+<area shape="rect" id="node21" href="$structns3_1_1mmwave_1_1_sfn_sf.html" title="Struct holding the numerology information such as frame, subframe, slot and (eventually) starting OFD..." alt="" coords="1037,475,1182,502"/>
+<area shape="rect" id="node34" href="$structns3_1_1mmwave_1_1_mac_pdu_info.html" title="ns3::mmwave::MacPduInfo" alt="" coords="1413,628,1596,655"/>
+<area shape="rect" id="node22" href="$structns3_1_1mmwave_1_1_ul_cqi_info.html" title="Struct carrying a downlink CQI. " alt="" coords="1026,272,1193,299"/>
+<area shape="rect" id="node25" href="$classns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_user.html" title="ns3::mmwave::MmWaveMacCsched\lSapUser" alt="" coords="1906,1276,2145,1317"/>
+<area shape="rect" id="node26" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_user.html" title="ns3::mmwave::MmWaveMacSched\lSapUser" alt="" coords="1910,1341,2141,1382"/>
+<area shape="rect" id="node31" href="$structns3_1_1mmwave_1_1_mac_ce_element.html" title="Represents a MAC Control Element. " alt="" coords="1403,459,1606,486"/>
+<area shape="rect" id="node35" href="$classns3_1_1mmwave_1_1_mm_wave_mac_pdu_header.html" title="ns3::mmwave::MmWaveMacPdu\lHeader" alt="" coords="1001,652,1217,693"/>
+<area shape="rect" id="node38" href="$structns3_1_1mmwave_1_1_mac_subheader.html" title="ns3::mmwave::MacSubheader" alt="" coords="149,670,348,696"/>
+<area shape="rect" id="node40" href="$structns3_1_1mmwave_1_1_mm_wave_enb_mac_1_1_nc_ra_preamble_info.html" title="info associated with a preamble allocated for non&#45;contention based RA " alt="" coords="1397,917,1613,958"/>
+</map>

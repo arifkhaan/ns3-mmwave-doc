@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveNetDevice::GetTypeId" name="ns3::mmwave::MmWaveNetDevice::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_net_device.html#a24b3118637b5a3514e20a944c117283b" title="ns3::mmwave::MmWaveNetDevice\l::GetAntennaNum" alt="" coords="284,5,515,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_net_device.html#a4e9b820d826621770bcb274ffdd30c36" title="ns3::mmwave::MmWaveNetDevice\l::GetMtu" alt="" coords="284,71,515,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_net_device.html#aa1b4fdce07afde22f137aa39ba64481b" title="ns3::mmwave::MmWaveNetDevice\l::SetAntennaNum" alt="" coords="284,136,515,177"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_net_device.html#a6cc664b898f7e414836ab42504de250a" title="ns3::mmwave::MmWaveNetDevice\l::SetMtu" alt="" coords="284,201,515,243"/>
+</map>

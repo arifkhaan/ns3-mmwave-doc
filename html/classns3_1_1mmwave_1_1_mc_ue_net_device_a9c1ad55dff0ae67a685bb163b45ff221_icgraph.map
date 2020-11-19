@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::McUeNetDevice::UpdateConfig" name="ns3::mmwave::McUeNetDevice::UpdateConfig">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#a5d526ebd90167b6fd1c3c3ad9005ee23" title="ns3::mmwave::McUeNetDevice\l::DoInitialize" alt="" coords="263,5,472,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#a21c1f0903276c8457e571eeb6e48496e" title="Enlist the UE device as a member of a particular CSG. " alt="" coords="263,71,472,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#ac0b40f31b31deb6c40fdbac5e652e737" title="ns3::mmwave::McUeNetDevice\l::GetTypeId" alt="" coords="520,71,729,112"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a741a96a2ee4df20668698ff0ec8c3304" title="ns3::mmwave::MmWaveHelper\l::MmWaveHelper" alt="" coords="777,71,984,112"/>
+</map>

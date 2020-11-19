@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveHelper::AttachIrToClosestEnb" name="ns3::mmwave::MmWaveHelper::AttachIrToClosestEnb">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_net_device.html#a0937cf2a783e7c8d8bb460a93774f64c" title="ns3::mmwave::MmWaveEnbNet\lDevice::GetCellId" alt="" coords="260,5,472,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#a4e6f145007cc07bff80636e1d8c0fd53" title="ns3::mmwave::McUeNetDevice\l::GetLteRrc" alt="" coords="261,71,471,112"/>
+</map>

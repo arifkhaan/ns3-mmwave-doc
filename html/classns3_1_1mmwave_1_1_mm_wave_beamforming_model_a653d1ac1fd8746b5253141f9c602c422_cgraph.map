@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveBeamformingModel::GetTypeId" name="ns3::mmwave::MmWaveBeamformingModel::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_beamforming_model.html#a7ce2370a1bbc7ee042688973f11e23ff" title="Get the antenna on which beamforming is applied. " alt="" coords="299,5,544,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_beamforming_model.html#a538091eaf3b9b009e3e557ad94144e21" title="Returns the NetDevice. " alt="" coords="299,71,544,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_beamforming_model.html#a6c30e28782da26ff0d50ef2613b018ca" title="Set the antenna on which beamforming is applied. " alt="" coords="299,136,544,177"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_beamforming_model.html#a37ee2ed8b43e3e3e6f374ba9f7fdd2c6" title="Set the NetDevice. " alt="" coords="299,201,544,243"/>
+</map>

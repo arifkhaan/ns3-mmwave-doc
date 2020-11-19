@@ -1,0 +1,16 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$structns3_1_1mmwave_1_1_mc_mm_wave_bound_callback_argument.html" title="ns3::mmwave::McMmWaveBound\lCallbackArgument" alt="" coords="181,14,404,55"/>
+<area shape="rect" id="node3" href="$structns3_1_1mmwave_1_1_mm_wave_bound_callback_argument.html" title="This structure is used as interface between trace sources and MmWaveBearerStatsCalculator. " alt="" coords="190,79,395,121"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1mm_wave_chunk_processor.html" title="ns3::mmwave::mmWaveChunk\lProcessor" alt="" coords="189,145,396,186"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_control_message.html" title="ns3::mmwave::MmWaveControl\lMessage" alt="" coords="187,210,398,251"/>
+<area shape="rect" id="node14" href="$classns3_1_1mmwave_1_1_mm_wave_drb_activator.html" title="ns3::mmwave::MmWaveDrbActivator" alt="" coords="172,276,413,303"/>
+<area shape="rect" id="node15" href="$classns3_1_1mmwave_1_1_mm_wave_harq_phy.html" title="The MmWaveHarqPhy class implements the HARQ functionalities related to PHY layer (i.e., decodification buffers for incremental redundancy managment) " alt="" coords="183,327,402,353"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_bsr_message.html" title="The uplink BsrLteControlMessage defines the specific extension of the CE element for reporting the bu..." alt="" coords="468,5,709,32"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_dl_cqi_message.html" title="ns3::mmwave::MmWaveDlCqi\lMessage" alt="" coords="488,57,689,98"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_dl_harq_feedback_message.html" title="The downlink MmwaveDlHarqFeedbackMessage defines the specific messages for transmitting the DL HARQ f..." alt="" coords="484,122,693,163"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_mib_message.html" title="Abstract model for broadcasting the Master Information Block (MIB) within the control channel (BCCH)..." alt="" coords="467,188,710,215"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_rach_preamble_message.html" title="abstract model for the Random Access Preamble " alt="" coords="461,239,716,281"/>
+<area shape="rect" id="node11" href="$classns3_1_1mmwave_1_1_mm_wave_rar_message.html" title="abstract model for the MAC Random Access Response message " alt="" coords="467,305,710,332"/>
+<area shape="rect" id="node12" href="$classns3_1_1mmwave_1_1_mm_wave_sib1_message.html" title="Abstract model for broadcasting the System Information Block Type 1 (SIB1) within the control channel..." alt="" coords="465,356,712,383"/>
+<area shape="rect" id="node13" href="$classns3_1_1mmwave_1_1_mm_wave_tdma_dci_message.html" title="ns3::mmwave::MmWaveTdmaDci\lMessage" alt="" coords="478,407,699,449"/>
+</map>

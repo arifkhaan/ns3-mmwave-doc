@@ -1,0 +1,7 @@
+<map id="ns3::mmwave::MmWaveUePhy::CreateTxPowerSpectralDensity" name="ns3::mmwave::MmWaveUePhy::CreateTxPowerSpectralDensity">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a85bd9fa7d4e29cac05ff2a2fd2e0320c" title="ns3::mmwave::MmWaveUePhy\l::SetSubChannelsForTransmission" alt="" coords="268,76,493,117"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a1d1efd5680984a5b75af75f91a4c9d06" title="Marks the beginning of a new Transmission Time Interval (TTI). " alt="" coords="541,76,749,117"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a8e412164ad1282f5e422913eebf77b11" title="Marks the beginning of a new NR slot. " alt="" coords="797,5,1005,47"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a6f7725f42496ecb63de96c937c257f66" title="Marks the end of a Transmission Time Interval (TTI). " alt="" coords="1053,76,1261,117"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a906b9d0bd8fc65ec6269f66ca948f62e" title="ns3::mmwave::MmWaveUePhy\l::MmWaveUePhy" alt="" coords="1053,5,1261,47"/>
+</map>

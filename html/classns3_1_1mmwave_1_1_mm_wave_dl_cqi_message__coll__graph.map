@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveDlCqiMessage" name="ns3::mmwave::MmWaveDlCqiMessage">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_control_message.html" title="ns3::mmwave::MmWaveControl\lMessage" alt="" coords="14,288,225,329"/>
+<area shape="rect" id="node4" href="$structns3_1_1mmwave_1_1_dl_cqi_info.html" title="Struct carrying a downlink CQI. " alt="" coords="248,295,415,322"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="273,95,389,121"/>
+</map>

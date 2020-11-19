@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveUePhy::DoInitialize" name="ns3::mmwave::MmWaveUePhy::DoInitialize">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#a30cbb4369861955e7b15ee2207e5e342" title="ns3::mmwave::MmWavePhy\l::DoInitialize" alt="" coords="261,5,452,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#a7ff44af0d862f39c5969bfbaead7da62" title="Sets the control data allocation within a NR slot. " alt="" coords="261,71,452,112"/>
+</map>

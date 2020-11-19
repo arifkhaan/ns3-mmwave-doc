@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveRadioBearerTag::GetTypeId" name="ns3::mmwave::MmWaveRadioBearerTag::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_radio_bearer_tag.html#a977632ce423d76d6d66afc7e98fef9c3" title="ns3::mmwave::MmWaveRadio\lBearerTag::GetLcid" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_radio_bearer_tag.html#aacb0365fcde387abe3cdb1e7979c67d6" title="ns3::mmwave::MmWaveRadio\lBearerTag::GetRnti" alt="" coords="256,71,459,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_radio_bearer_tag.html#a77c9456da2a0dede71d179290ead2323" title="ns3::mmwave::MmWaveRadio\lBearerTag::GetSize" alt="" coords="256,136,459,177"/>
+</map>

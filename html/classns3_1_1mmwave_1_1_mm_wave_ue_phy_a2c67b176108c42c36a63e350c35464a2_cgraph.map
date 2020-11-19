@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveUePhy::GenerateDlCqiReport" name="ns3::mmwave::MmWaveUePhy::GenerateDlCqiReport">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#abb99fd1d4468b64abb732d4016db3d51" title="ns3::mmwave::MmWaveUePhy\l::CreateDlCqiFeedbackMessage" alt="" coords="261,5,473,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a338e433b9ce0603af32799e746670041" title="ns3::mmwave::MmWaveUePhy\l::DoSendControlMessage" alt="" coords="263,71,471,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html#ab7bcbcdfa9d1e8980b8f35e674bb637d" title="ns3::mmwave::MmWavePhy\l::SetControlMessage" alt="" coords="521,71,712,112"/>
+</map>

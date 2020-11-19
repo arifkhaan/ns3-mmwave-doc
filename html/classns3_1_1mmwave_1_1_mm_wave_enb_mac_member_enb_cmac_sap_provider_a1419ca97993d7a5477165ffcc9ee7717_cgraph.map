@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveEnbMacMemberEnbCmacSapProvider::AddUe" name="ns3::mmwave::MmWaveEnbMacMemberEnbCmacSapProvider::AddUe">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html#ada5587e647a7e0be2cebf12f81576dd9" title="ns3::mmwave::MmWaveEnbMac\l::DoAddUe" alt="" coords="300,5,516,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_provider.html#a81cb22cb608d1b0847b230b5de70bbc5" title="ns3::mmwave::MmWaveMacCsched\lSapProvider::CschedUeConfigReq" alt="" coords="564,5,803,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveMacSchedSapProvider::SchedUlMacCtrlInfoReq" name="ns3::mmwave::MmWaveMacSchedSapProvider::SchedUlMacCtrlInfoReq">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html#a4e86a354025dd47097177b2d5923730a" title="Receive from the PHY layer the current frame, subframe, slot numbers and the current starting OFDM sy..." alt="" coords="296,5,512,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_mac_enb_member_phy_sap_user.html#aa40feed9780715db735fd743e05c925b" title="Send from the PHY layer the current frame, subframe, slot numbers and the current starting OFDM symbo..." alt="" coords="560,5,791,47"/>
+</map>

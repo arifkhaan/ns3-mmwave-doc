@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveNetDevice::SetNode" name="ns3::mmwave::MmWaveNetDevice::SetNode">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#ac59e6cd2aacccb9187fd32073c77bbc8" title="ns3::mmwave::MmWaveHelper\l::InstallSingleEnbDevice" alt="" coords="284,5,491,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#ad91a678c4fd8535e846fabe7d5fd8d0a" title="ns3::mmwave::MmWaveHelper\l::InstallSingleUeDevice" alt="" coords="284,71,491,112"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a22e7c77af3889a057a50fef8ee0ce529" title="ns3::mmwave::MmWaveHelper\l::InstallEnbDevice" alt="" coords="539,5,745,47"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a408458c257e25cf5e97da18898d00a0b" title="ns3::mmwave::MmWaveHelper\l::InstallUeDevice" alt="" coords="539,71,745,112"/>
+</map>

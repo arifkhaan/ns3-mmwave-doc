@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::McStatsCalculator::GetTypeId" name="ns3::mmwave::McStatsCalculator::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mc_stats_calculator.html#a966b0a7ae4e0010e24b11435c47a3703" title="ns3::mmwave::McStatsCalculator\l::SetCellIdInTimeOutputFilename" alt="" coords="273,5,493,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mc_stats_calculator.html#a3c77c3107db7f3cfe265d266ece445d8" title="ns3::mmwave::McStatsCalculator\l::SetLteOutputFilename" alt="" coords="273,71,493,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mc_stats_calculator.html#add12a167e4ebed3f4bbd042d38db728a" title="ns3::mmwave::McStatsCalculator\l::SetMmWaveOutputFilename" alt="" coords="273,136,493,177"/>
+</map>

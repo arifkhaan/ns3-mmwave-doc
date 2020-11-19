@@ -1,0 +1,7 @@
+<map id="ns3::mmwave::MmWaveBearerStatsConnector::NotifyRandomAccessSuccessfulUe" name="ns3::mmwave::MmWaveBearerStatsConnector::NotifyRandomAccessSuccessfulUe">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a66be7da9b9f56996bb1f5648913dd750" title="Connects Srb0 trace sources at UE and eNB to RLC and PDCP calculators, and Srb1 trace sources at eNB ..." alt="" coords="303,74,540,115"/>
+<area shape="rect" id="node3" href="$namespacens3_1_1mmwave.html#a73721167434790a50528cc414edb6529" title="Callback function for DL RX statistics for both RLC and PDCP /param arg /param path /param rnti /para..." alt="" coords="588,5,804,32"/>
+<area shape="rect" id="node4" href="$namespacens3_1_1mmwave.html#aa17f39007f2f5bf006cf0b692d7eddac" title="Callback function for DL TX statistics for both RLC and PDCP /param arg /param path /param rnti /para..." alt="" coords="589,56,803,83"/>
+<area shape="rect" id="node5" href="$namespacens3_1_1mmwave.html#a16bb43a4d55a7f0c4060fd948ab7b760" title="Callback function for UL RX statistics for both RLC and PDCP /param arg /param path /param rnti /para..." alt="" coords="588,107,804,133"/>
+<area shape="rect" id="node6" href="$namespacens3_1_1mmwave.html#afc29696b6f065e8216a26833930573a6" title="Callback function for UL TX statistics for both RLC and PDCP /param arg /param path /param rnti /para..." alt="" coords="589,157,803,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveFlexTtiMaxRateMacScheduler::DoCschedCellConfigReq" name="ns3::mmwave::MmWaveFlexTtiMaxRateMacScheduler::DoCschedCellConfigReq">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_scheduler.html#a33c96bd876e4faf553889f59216f8347" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacScheduler::BufferSize2BsrId" alt="" coords="304,5,569,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_csched_sap_provider.html#a16851a0d0adfba5dec6984d272584689" title="CSCHED_CELL_CONFIG_REQ. " alt="" coords="329,71,545,127"/>
+</map>

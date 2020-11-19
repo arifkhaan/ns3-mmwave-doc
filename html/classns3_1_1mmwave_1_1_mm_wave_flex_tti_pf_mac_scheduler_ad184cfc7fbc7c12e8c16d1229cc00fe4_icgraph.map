@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveFlexTtiPfMacScheduler::BsrId2BufferSize" name="ns3::mmwave::MmWaveFlexTtiPfMacScheduler::BsrId2BufferSize">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_pf_mac_scheduler.html#a7b317d44f5febd885f089d8748900ba8" title="ns3::mmwave::MmWaveFlexTti\lPfMacScheduler::DoSchedUlMacCtrl\lInfoReq" alt="" coords="279,43,517,99"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_pf_mac_sched_sap_provider.html#ad0872f72009f4eab826486f49bcc6b62" title="ns3::mmwave::MmWaveFlexTti\lPfMacSchedSapProvider::\lSchedUlMacCtrlInfoReq" alt="" coords="574,5,782,61"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_pf_mac_scheduler.html#a40007955e989ea54f6530e0d35a052f2" title="ns3::mmwave::MmWaveFlexTti\lPfMacScheduler::BufferSize2BsrId" alt="" coords="565,86,791,127"/>
+</map>

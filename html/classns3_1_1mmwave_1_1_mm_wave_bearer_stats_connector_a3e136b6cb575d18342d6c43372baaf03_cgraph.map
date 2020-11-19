@@ -1,0 +1,9 @@
+<map id="ns3::mmwave::MmWaveBearerStatsConnector::GetTypeId" name="ns3::mmwave::MmWaveBearerStatsConnector::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#aed4e5b89f8cf8f21044ab94bbbf5ec17" title="ns3::mmwave::MmWaveBearer\lStatsConnector::SetCellIdStats\lOutputFilename" alt="" coords="286,5,493,61"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#ac6a41f27b99d84b8be0d4b3291e50e03" title="ns3::mmwave::MmWaveBearer\lStatsConnector::SetEnbHandover\lEndOutputFilename" alt="" coords="279,85,499,141"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a44ab1188c8a7b3ff78815a53add2aeaf" title="ns3::mmwave::MmWaveBearer\lStatsConnector::SetEnbHandover\lStartOutputFilename" alt="" coords="279,165,499,221"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#af96af48d21e2f5c3240f1338c69549b2" title="ns3::mmwave::MmWaveBearer\lStatsConnector::SetLteSinrOutput\lFilename" alt="" coords="279,245,500,301"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#ab99447277dd0457bfc0bbde655fa919f" title="ns3::mmwave::MmWaveBearer\lStatsConnector::SetMmWaveSinrOutput\lFilename" alt="" coords="260,325,519,381"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#ad5bebff60fde3e0db27910db85c7ad25" title="ns3::mmwave::MmWaveBearer\lStatsConnector::SetUeHandoverEnd\lOutputFilename" alt="" coords="271,405,508,461"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#adf73a3f3dafbf04e178c381811607301" title="ns3::mmwave::MmWaveBearer\lStatsConnector::SetUeHandoverStart\lOutputFilename" alt="" coords="268,485,511,541"/>
+</map>

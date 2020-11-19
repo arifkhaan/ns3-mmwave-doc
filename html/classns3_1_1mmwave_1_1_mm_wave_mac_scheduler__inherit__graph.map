@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveMacScheduler" name="ns3::mmwave::MmWaveMacScheduler">
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_mac_scheduler.html" title="ns3::mmwave::MmWaveFlexTti\lMacScheduler" alt="" coords="412,5,620,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_scheduler.html" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacScheduler" alt="" coords="412,71,620,112"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler.html" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler" alt="" coords="412,136,620,177"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_pf_mac_scheduler.html" title="ns3::mmwave::MmWaveFlexTti\lPfMacScheduler" alt="" coords="412,201,620,243"/>
+</map>

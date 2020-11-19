@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveBeamformingModel" name="ns3::mmwave::MmWaveBeamformingModel">
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_dft_beamforming.html" title="This class extends the MmWaveBeamformingModel interface. " alt="" coords="5,169,268,196"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_svd_beamforming.html" title="This class extends the MmWaveBeamformingModel interface. " alt="" coords="292,169,560,196"/>
+</map>

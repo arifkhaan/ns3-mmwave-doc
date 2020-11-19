@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveAmc::GetCqiFromSpectralEfficiency" name="ns3::mmwave::MmWaveAmc::GetCqiFromSpectralEfficiency">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_amc.html#ac798aafe6f277ece4e9ccff18f7cdf71" title="ns3::mmwave::MmWaveAmc\l::CreateCqiFeedbacks" alt="" coords="262,5,457,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_amc.html#a465551ef3e26861a89b1a79e7ec22a71" title="ns3::mmwave::MmWaveAmc\l::CreateCqiFeedbacksTdma" alt="" coords="262,71,457,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_amc.html#a6b1cd7bd9c7f7a03e0a90532a9999ff9" title="ns3::mmwave::MmWaveAmc\l::CreateCqiFeedbackWbTdma" alt="" coords="260,136,459,177"/>
+</map>

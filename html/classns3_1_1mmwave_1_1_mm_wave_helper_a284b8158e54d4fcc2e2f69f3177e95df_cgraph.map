@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveHelper::EnableUlPhyTrace" name="ns3::mmwave::MmWaveHelper::EnableUlPhyTrace">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_phy_trace.html#a56b5fb6220bccc66ba7285a6970075b2" title="Callback used to trace an UL PHY tranmission. " alt="" coords="260,5,495,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_phy_trace.html#aab33eccd1c9f8bccf1843a54d2300a1d" title="ns3::mmwave::MmWavePhyTrace\l::RxPacketTraceEnbCallback" alt="" coords="265,71,489,112"/>
+</map>

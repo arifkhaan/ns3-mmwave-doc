@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveFlexTtiMaxWeightMacCschedSapProvider::CschedCellConfigReq" name="ns3::mmwave::MmWaveFlexTtiMaxWeightMacCschedSapProvider::CschedCellConfigReq">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler.html#a5efb87e2c22e8dcd0fffd6954ab0658a" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler::\lDoCschedCellConfigReq" alt="" coords="283,5,491,61"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_user.html#a444bcf6b945cf22d7eaa3e9fd2aded66" title="ns3::mmwave::MmWaveMacCsched\lSapUser::CschedUeConfigCnf" alt="" coords="539,13,777,54"/>
+</map>

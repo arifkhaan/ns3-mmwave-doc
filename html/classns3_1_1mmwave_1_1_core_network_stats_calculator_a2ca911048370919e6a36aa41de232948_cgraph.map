@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::CoreNetworkStatsCalculator::GetTypeId" name="ns3::mmwave::CoreNetworkStatsCalculator::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_core_network_stats_calculator.html#a5de6f2dcafa758d450f84b6b16c5d7af" title="ns3::mmwave::CoreNetwork\lStatsCalculator::SetMmeOutput\lFilename" alt="" coords="243,5,451,61"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_core_network_stats_calculator.html#ab70b8673197b9fbff12461acba62c85f" title="ns3::mmwave::CoreNetwork\lStatsCalculator::SetX2Output\lFilename" alt="" coords="249,85,444,141"/>
+</map>

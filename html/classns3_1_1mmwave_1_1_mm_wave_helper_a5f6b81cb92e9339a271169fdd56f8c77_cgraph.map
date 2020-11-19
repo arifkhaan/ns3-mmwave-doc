@@ -1,0 +1,20 @@
+<map id="ns3::mmwave::MmWaveHelper::GetTypeId" name="ns3::mmwave::MmWaveHelper::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a267664766d0e24c076a33d8318cba791" title="ns3::mmwave::MmWaveHelper\l::GetEnbComponentCarrierManagerType" alt="" coords="269,5,528,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#addc4cdfc7fe718359466ebb5a083f1da" title="ns3::mmwave::MmWaveHelper\l::GetLteEnbComponentCarrierManagerType" alt="" coords="260,71,537,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a094f2a063bead05e3e7f07da4ef66ff6" title="ns3::mmwave::MmWaveHelper\l::GetLteFfrAlgorithmType" alt="" coords="295,136,502,177"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a02ee15283c001273cee3518134cd584e" title="ns3::mmwave::MmWaveHelper\l::GetLteHandoverAlgorithmType" alt="" coords="294,201,503,243"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a2da2f9db7ca18b1f4de2adf00dc929f3" title="ns3::mmwave::MmWaveHelper\l::GetLteSchedulerType" alt="" coords="295,267,502,308"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a88a22bcfc4c5b8cec4417fa395e5c6c8" title="ns3::mmwave::MmWaveHelper\l::GetSchedulerType" alt="" coords="295,332,502,373"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#ab99ba1470eedfd917a4d42ea919f8754" title="ns3::mmwave::MmWaveHelper\l::GetUeComponentCarrierManagerType" alt="" coords="272,397,525,439"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#acc60dd7ef7d3beb8d2bf41aee1850fd1" title="Set the type of beamforming model to be used. " alt="" coords="295,463,502,504"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a42d6021d9ee1218691d8a50a04b1b986" title="ns3::mmwave::MmWaveHelper\l::SetChannelModelType" alt="" coords="295,528,502,569"/>
+<area shape="rect" id="node11" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a1f576a143e86bc0d16db7b14077617b4" title="Set the type of carrier component algorithm to be used by gNodeB devices. " alt="" coords="269,593,528,635"/>
+<area shape="rect" id="node12" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a82e1133830af9206e76b814c8b6404b0" title="Set the type of carrier component algorithm to be used by eNodeB devices. " alt="" coords="261,659,537,700"/>
+<area shape="rect" id="node13" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a793959b7a5a10f91de4056dfb41da61d" title="Set the type of FFR algorithm to be used by LTE eNodeB devices. " alt="" coords="295,724,502,765"/>
+<area shape="rect" id="node14" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a528ca5ae271bf09bfdbf8ec8c55560c9" title="Set the type of handover algorithm to be used by LTE eNodeB devices. " alt="" coords="295,789,503,831"/>
+<area shape="rect" id="node15" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#ab4c89ca5ce518015111cc32fa9add1f0" title="ns3::mmwave::MmWaveHelper\l::SetLtePathlossModelType" alt="" coords="295,855,502,896"/>
+<area shape="rect" id="node16" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a31fdde8cbeadeb480113db3767202fdf" title="ns3::mmwave::MmWaveHelper\l::SetLteSchedulerType" alt="" coords="295,920,502,961"/>
+<area shape="rect" id="node17" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#ae06c3dbfa3e00b345fa334b6273fadc5" title="ns3::mmwave::MmWaveHelper\l::SetPathlossModelType" alt="" coords="295,985,502,1027"/>
+<area shape="rect" id="node18" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#ace002f7676ea2c90cb08a6ad54ec4c7a" title="ns3::mmwave::MmWaveHelper\l::SetSchedulerType" alt="" coords="295,1051,502,1092"/>
+<area shape="rect" id="node19" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a4bbfce8df703139cf42cba843de1bc6b" title="Set the type of Component Carrier Manager to be used by Ue devices. " alt="" coords="273,1116,525,1157"/>
+</map>

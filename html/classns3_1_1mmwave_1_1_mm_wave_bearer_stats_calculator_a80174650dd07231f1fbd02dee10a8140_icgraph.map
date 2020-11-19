@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveBearerStatsCalculator::ResetResults" name="ns3::mmwave::MmWaveBearerStatsCalculator::ResetResults">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a16cc16f123044fda7d3164ac436e2152" title="Function called in every endEpochEvent. " alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#ab024d3f1107b34f740e862aa29485496" title="Reschedules EndEpoch event. " alt="" coords="515,5,764,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ns3::mmwave::MmWaveMacEnbMemberPhySapUser::SlotIndication" name="ns3::mmwave::MmWaveMacEnbMemberPhySapUser::SlotIndication">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html#a4e86a354025dd47097177b2d5923730a" title="Receive from the PHY layer the current frame, subframe, slot numbers and the current starting OFDM sy..." alt="" coords="284,136,500,177"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_provider.html#a13f8d2e6f0052198e395b3487a5d45bb" title="ns3::mmwave::MmWaveMacSched\lSapProvider::SchedDlCqiInfoReq" alt="" coords="554,5,785,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_provider.html#a6b4dab24f7c80c6c5a250c6b178b4406" title="ns3::mmwave::MmWaveMacSched\lSapProvider::SchedTriggerReq" alt="" coords="554,71,785,112"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_provider.html#a38d58ca4cc96d4346c3cfc3f0870a72c" title="ns3::mmwave::MmWaveMacSched\lSapProvider::SchedUlCqiInfoReq" alt="" coords="554,136,785,177"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_provider.html#a99f508d55497d043e7d5bf59b253700e" title="ns3::mmwave::MmWaveMacSched\lSapProvider::SchedUlMacCtrlInfoReq" alt="" coords="548,201,791,243"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_phy_sap_provider.html#a0937faef3aa8b9b8707a735465e1bd81" title="ns3::mmwave::MmWavePhySap\lProvider::SendControlMessage" alt="" coords="562,267,777,308"/>
+</map>

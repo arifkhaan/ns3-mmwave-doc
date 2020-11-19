@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_mm_wave_attachment_test_case.html" title="This test case checks if attachment procedure works properly. " alt="" coords="155,5,358,32"/>
+<area shape="rect" id="node3" href="$class_mm_wave_dft_beamforming_test_case.html" title="This test case checks if the MmWaveDftBeamforming works properly. " alt="" coords="141,56,372,83"/>
+<area shape="rect" id="node4" href="$class_mm_wave_svd_beamforming_test_case.html" title="This test case checks if the MmWaveSvdBeamforming works properly. " alt="" coords="139,107,374,133"/>
+<area shape="rect" id="node5" href="$class_mmwave_test_case1.html" title="MmwaveTestCase1" alt="" coords="187,157,326,184"/>
+<area shape="rect" id="node6" href="$class_mmwave_three_gpp_antenna_initialization_test_case.html" title="This test case checks if the MmWaveHelper correctly initializes the device antennas. " alt="" coords="132,209,381,250"/>
+<area shape="rect" id="node7" href="$class_mmwave_three_gpp_channel_initialization_test_case.html" title="This test case checks if the MmWaveHelper correctly initializes the 3GPP channel model. " alt="" coords="132,274,381,315"/>
+</map>

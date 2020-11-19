@@ -1,0 +1,32 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_core_network_stats_calculator.html" title="ns3::mmwave::CoreNetwork\lStatsCalculator" alt="" coords="144,5,333,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mc_stats_calculator.html" title="ns3::mmwave::McStatsCalculator" alt="" coords="129,71,349,98"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_amc.html" title="ns3::mmwave::MmWaveAmc" alt="" coords="141,122,336,149"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_beamforming_model.html" title="This class handles the beamforming operations. " alt="" coords="116,173,361,215"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html" title="This class is very useful when user needs to collect statistics from PDCD and RLC. " alt="" coords="135,239,342,280"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier.html" title="ComponentCarrier Object, it defines a single Carrier This is the parent class for both ComponentCarri..." alt="" coords="121,304,356,345"/>
+<area shape="rect" id="node12" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html" title="ns3::mmwave::MmWaveEnbMac" alt="" coords="131,370,347,397"/>
+<area shape="rect" id="node13" href="$classns3_1_1mmwave_1_1_mm_wave_enb_rrc_protocol_ideal.html" title="Models the transmission of RRC messages from the UE to the eNB in an ideal fashion, without errors and without consuming any radio resources. " alt="" coords="133,421,345,463"/>
+<area shape="rect" id="node14" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html" title="ns3::mmwave::MmWaveHelper" alt="" coords="135,487,342,514"/>
+<area shape="rect" id="node15" href="$classns3_1_1mmwave_1_1mm_wave_interference.html" title="ns3::mmwave::mmWaveInterference" alt="" coords="120,538,357,565"/>
+<area shape="rect" id="node16" href="$classns3_1_1mmwave_1_1_mm_wave_lte_enb_rrc_protocol_real.html" title="Models the transmission of RRC messages from the UE to the eNB in a real fashion, by creating real RR..." alt="" coords="134,589,343,631"/>
+<area shape="rect" id="node17" href="$classns3_1_1mmwave_1_1_mm_wave_lte_ue_rrc_protocol_real.html" title="Models the transmission of RRC messages from the UE to the eNB in a real fashion, by creating real RR..." alt="" coords="137,655,340,696"/>
+<area shape="rect" id="node18" href="$classns3_1_1mmwave_1_1_mm_wave_mac.html" title="ns3::mmwave::MmWaveMac" alt="" coords="142,721,335,747"/>
+<area shape="rect" id="node19" href="$classns3_1_1mmwave_1_1_mm_wave_mac_scheduler.html" title="ns3::mmwave::MmWaveMacScheduler" alt="" coords="113,771,364,798"/>
+<area shape="rect" id="node24" href="$classns3_1_1mmwave_1_1_mm_wave_mac_trace.html" title="This class contains the MmWave, MAC&#45;related tracing entities. " alt="" coords="125,822,352,849"/>
+<area shape="rect" id="node25" href="$classns3_1_1mmwave_1_1_mm_wave_phy.html" title="ns3::mmwave::MmWavePhy" alt="" coords="143,873,334,899"/>
+<area shape="rect" id="node28" href="$classns3_1_1mmwave_1_1_mm_wave_phy_mac_common.html" title="This class is a containter holding the parameters used by MAC and PHY layers. " alt="" coords="131,924,347,965"/>
+<area shape="rect" id="node29" href="$classns3_1_1mmwave_1_1_mm_wave_phy_trace.html" title="ns3::mmwave::MmWavePhyTrace" alt="" coords="127,990,351,1017"/>
+<area shape="rect" id="node30" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html" title="ns3::mmwave::MmWaveUeMac" alt="" coords="133,1041,344,1067"/>
+<area shape="rect" id="node31" href="$classns3_1_1mmwave_1_1_mm_wave_ue_rrc_protocol_ideal.html" title="Models the transmission of RRC messages from the UE to the eNB in an ideal fashion, without errors and without consuming any radio resources. " alt="" coords="135,1092,342,1133"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_dft_beamforming.html" title="This class extends the MmWaveBeamformingModel interface. " alt="" coords="415,155,677,182"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_svd_beamforming.html" title="This class extends the MmWaveBeamformingModel interface. " alt="" coords="412,206,680,233"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier_enb.html" title="Defines a single carrier for enb, and contains pointers to MmWaveEnbPhy, MmWaveEnbMac objects..." alt="" coords="429,281,663,323"/>
+<area shape="rect" id="node11" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier_ue.html" title="ComponentCarrierUe Object, it defines a single Carrier for the Ue. " alt="" coords="429,347,663,388"/>
+<area shape="rect" id="node20" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_mac_scheduler.html" title="ns3::mmwave::MmWaveFlexTti\lMacScheduler" alt="" coords="442,621,650,663"/>
+<area shape="rect" id="node21" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_scheduler.html" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacScheduler" alt="" coords="442,687,650,728"/>
+<area shape="rect" id="node22" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler.html" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler" alt="" coords="442,752,650,793"/>
+<area shape="rect" id="node23" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_pf_mac_scheduler.html" title="ns3::mmwave::MmWaveFlexTti\lPfMacScheduler" alt="" coords="442,817,650,859"/>
+<area shape="rect" id="node26" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html" title="ns3::mmwave::MmWaveEnbPhy" alt="" coords="439,883,653,910"/>
+<area shape="rect" id="node27" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html" title="ns3::mmwave::MmWaveUePhy" alt="" coords="442,934,650,961"/>
+</map>

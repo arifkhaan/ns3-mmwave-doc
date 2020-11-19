@@ -1,0 +1,26 @@
+var classns3_1_1mmwave_1_1_mm_wave_component_carrier =
+[
+    [ "MmWaveComponentCarrier", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a012a0928192c7b1f8fd18c0b28d7923f", null ],
+    [ "~MmWaveComponentCarrier", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#abc04a6af20746a182ada35d67b50c3b2", null ],
+    [ "DoDispose", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a956cc6cfd0b3c5a498b63d596ad9c380", null ],
+    [ "DoInitialize", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#abef5e1926a06a6c3c0d87f4d62716596", null ],
+    [ "GetAntenna", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#add83c9c2654a7fb248b8f1676dc6166b", null ],
+    [ "GetBandwidthInRb", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a74647e60e48ba23b828a171c2c7e39fc", null ],
+    [ "GetCenterFrequency", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a7badef8805caa978977fd6983ee5254a", null ],
+    [ "GetConfigurationParameters", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a498478df24de7f77d027b769fd1e0842", null ],
+    [ "GetCsgId", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a3935dc0d0e90492e5e58d5a96ed55274", null ],
+    [ "GetCsgIndication", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a3e41ea19790da3ea8f4d6509a6468ab7", null ],
+    [ "GetTypeId", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#aecbed40a35ddf47de5c5d7119ff052d9", null ],
+    [ "IsPrimary", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a20f90a7bf2876391b0ef2bdd071b58db", null ],
+    [ "SetAntenna", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a217dec9472c8a9004217cf15e6a04dd1", null ],
+    [ "SetAsPrimary", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a826e0b57c4e662d350483cc26bd042e8", null ],
+    [ "SetConfigurationParameters", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a9633fd3684b02a53e82eabb4117c4cfd", null ],
+    [ "SetCsgId", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a20207ce79cb19cb1ea874031e60500e6", null ],
+    [ "SetCsgIndication", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#ab668a9a7a50283f7de9734db07c31d8b", null ],
+    [ "m_antenna", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a8b14c1d95304e488fa48fd501f52bfe8", null ],
+    [ "m_csgId", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a5d5b8736bc4b16030283eaa4cfc1d1f1", null ],
+    [ "m_csgIndication", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#aa80e89ec8bae25c43dcb7fc58dbaa295", null ],
+    [ "m_isConstructed", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a0f129945a6ddb228e181fb4124a9e51f", null ],
+    [ "m_phyMacConfig", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a705b7c5eb127145bc4e1a9dcf6d7acc6", null ],
+    [ "m_primaryCarrier", "classns3_1_1mmwave_1_1_mm_wave_component_carrier.html#a728d7523b9f0d1c37550b75a8e917a6b", null ]
+];

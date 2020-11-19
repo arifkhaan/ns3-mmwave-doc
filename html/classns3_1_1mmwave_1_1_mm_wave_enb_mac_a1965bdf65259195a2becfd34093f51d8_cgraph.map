@@ -1,0 +1,8 @@
+<map id="ns3::mmwave::MmWaveEnbMac::DoSchedConfigIndication" name="ns3::mmwave::MmWaveEnbMac::DoSchedConfigIndication">
+<area shape="rect" id="node2" href="$structns3_1_1mmwave_1_1_mac_subheader.html#a70c28595a1a688d448e9305954f9ee96" title="ns3::mmwave::MacSubheader\l::GetSize" alt="" coords="278,5,477,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_phy_sap_provider.html#a3b87be47ef2a33d800c38c2a0f0bc045" title="ns3::mmwave::MmWavePhySap\lProvider::SendMacPdu" alt="" coords="270,71,485,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_mac_pdu_tag.html#a8a3b830bec86ddfadbbb83a02fd188b0" title="ns3::mmwave::MmWaveMacPdu\lTag::SetNumSym" alt="" coords="269,136,485,177"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_mac_pdu_tag.html#a433bbc32e1c68f6af9506601e926afd6" title="ns3::mmwave::MmWaveMacPdu\lTag::SetSfn" alt="" coords="269,201,485,243"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_phy_sap_provider.html#a2c201d87dc024139b2b6f4815dfc478e" title="Updates the current NR slot with the allocation info provided by the scheduler. " alt="" coords="270,267,485,308"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html#a7c099007c335db851b860af0e5a855a1" title="Triggers the callback for the SchedulingTraceEnb Trace Source. " alt="" coords="269,332,485,373"/>
+</map>

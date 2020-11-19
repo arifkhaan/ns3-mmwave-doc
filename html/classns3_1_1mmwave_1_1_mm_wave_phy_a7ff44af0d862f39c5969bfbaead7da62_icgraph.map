@@ -1,0 +1,12 @@
+<map id="ns3::mmwave::MmWavePhy::SetSlotCtrlStructure" name="ns3::mmwave::MmWavePhy::SetSlotCtrlStructure">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a34cd485e785a742f902cb6476b2a4b85" title="ns3::mmwave::MmWaveEnbPhy\l::DoInitialize" alt="" coords="244,5,459,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#acc11d038630be7f61c0e60e86dc6b4f2" title="ns3::mmwave::MmWaveUePhy\l::DoInitialize" alt="" coords="247,71,455,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#af32665773bcbb656d657be41d3f5eb7e" title="Initializes the slots allocation info for the given frame, subframe and slot. " alt="" coords="247,136,455,177"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a3e77b8dc3b5bc4c1a4f0aab33767a726" title="ns3::mmwave::MmWaveUePhy\l::RegisterToEnb" alt="" coords="247,201,455,243"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a8e412164ad1282f5e422913eebf77b11" title="Marks the beginning of a new NR slot. " alt="" coords="507,123,715,164"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a906b9d0bd8fc65ec6269f66ca948f62e" title="ns3::mmwave::MmWaveUePhy\l::MmWaveUePhy" alt="" coords="763,44,971,85"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a6f7725f42496ecb63de96c937c257f66" title="Marks the end of a Transmission Time Interval (TTI). " alt="" coords="763,109,971,151"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a1d1efd5680984a5b75af75f91a4c9d06" title="Marks the beginning of a new Transmission Time Interval (TTI). " alt="" coords="1019,109,1227,151"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a446038380e8c88cac0fa893a94708cea" title="ns3::mmwave::MmWaveUePhy\l::DoSynchronizeWithEnb" alt="" coords="507,201,715,243"/>
+<area shape="rect" id="node11" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a5d2559fe76f656a89bf2f9aea5e9b80e" title="ns3::mmwave::MmWaveUePhy\l::DoSynchronizeWithEnb" alt="" coords="763,227,971,268"/>
+</map>

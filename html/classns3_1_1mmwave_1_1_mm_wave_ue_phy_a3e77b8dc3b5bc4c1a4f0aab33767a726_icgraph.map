@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveUePhy::RegisterToEnb" name="ns3::mmwave::MmWaveUePhy::RegisterToEnb">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a446038380e8c88cac0fa893a94708cea" title="ns3::mmwave::MmWaveUePhy\l::DoSynchronizeWithEnb" alt="" coords="261,5,469,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a5d2559fe76f656a89bf2f9aea5e9b80e" title="ns3::mmwave::MmWaveUePhy\l::DoSynchronizeWithEnb" alt="" coords="517,5,725,47"/>
+</map>

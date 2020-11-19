@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveMacCschedSapProvider::CschedLcReleaseReq" name="ns3::mmwave::MmWaveMacCschedSapProvider::CschedLcReleaseReq">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html#aae3e7f8e0807fec37a7def016197df73" title="ns3::mmwave::MmWaveEnbMac\l::DoReleaseLc" alt="" coords="292,13,508,54"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac_member_enb_cmac_sap_provider.html#a432fb2cd62ba39b7c511b12d71482c17" title="ns3::mmwave::MmWaveEnbMac\lMemberEnbCmacSapProvider\l::ReleaseLc" alt="" coords="556,5,772,61"/>
+</map>

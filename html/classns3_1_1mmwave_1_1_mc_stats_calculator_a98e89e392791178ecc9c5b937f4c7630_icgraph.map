@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::McStatsCalculator::GetCellIdInTimeOutputFilename" name="ns3::mmwave::McStatsCalculator::GetCellIdInTimeOutputFilename">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mc_stats_calculator.html#a71255a112230e35354456f349810322d" title="ns3::mmwave::McStatsCalculator\l::SwitchToLte" alt="" coords="273,5,493,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mc_stats_calculator.html#a256f1d9a1a71e8bf6faa7e0e4d7933db" title="ns3::mmwave::McStatsCalculator\l::SwitchToMmWave" alt="" coords="273,71,493,112"/>
+</map>

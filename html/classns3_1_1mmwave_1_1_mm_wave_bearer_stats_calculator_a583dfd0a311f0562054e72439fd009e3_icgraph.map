@@ -1,0 +1,8 @@
+<map id="ns3::mmwave::MmWaveBearerStatsCalculator::GetDlOutputFilename" name="ns3::mmwave::MmWaveBearerStatsCalculator::GetDlOutputFilename">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a5f6cfb70705f45fb80605e5dff97409c" title="Notifies the stats calculator that an downlink reception has occurred. " alt="" coords="300,5,507,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#acae3791670f79927495e19d23790da91" title="Notifies the stats calculator that an downlink transmission has occurred. " alt="" coords="300,71,507,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a818d43c168784df2f6618d2315c40b2b" title="Called after each epoch to write collected statistics to output files. " alt="" coords="300,136,507,177"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a9603ebca97f30b1ca41d0be7c0879966" title="ns3::mmwave::MmWaveBearer\lStatsCalculator::DoDispose" alt="" coords="555,103,761,144"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a16cc16f123044fda7d3164ac436e2152" title="Function called in every endEpochEvent. " alt="" coords="555,168,761,209"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#ab024d3f1107b34f740e862aa29485496" title="Reschedules EndEpoch event. " alt="" coords="809,168,1059,209"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveFlexTtiPfMacSchedSapProvider::SchedUlCqiInfoReq" name="ns3::mmwave::MmWaveFlexTtiPfMacSchedSapProvider::SchedUlCqiInfoReq">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_pf_mac_scheduler.html#afea5196517af6bd1c77da1fcedec14d5" title="ns3::mmwave::MmWaveFlexTti\lPfMacScheduler::DoSchedUlCqiInfoReq" alt="" coords="261,13,520,54"/>
+<area shape="rect" id="node3" href="$structns3_1_1mmwave_1_1_sfn_sf.html#a446d01da03ddd676e8fbd024b78651fb" title="Encodes the struct into an uint64_t. " alt="" coords="568,13,713,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWavePhy::SetNoiseFigure" name="ns3::mmwave::MmWavePhy::SetNoiseFigure">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a0fa912f45f6b11e3c18b4e68c8d8b163" title="ns3::mmwave::MmWaveEnbPhy\l::GetTypeId" alt="" coords="244,5,459,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#ae327f6b04d417973940887b3732596ef" title="ns3::mmwave::MmWaveUePhy\l::GetTypeId" alt="" coords="247,71,455,112"/>
+</map>

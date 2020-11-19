@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveUePhySapUser::SetConfigurationParameters" name="ns3::mmwave::MmWaveUePhySapUser::SetConfigurationParameters">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a3e77b8dc3b5bc4c1a4f0aab33767a726" title="ns3::mmwave::MmWaveUePhy\l::RegisterToEnb" alt="" coords="299,5,507,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a446038380e8c88cac0fa893a94708cea" title="ns3::mmwave::MmWaveUePhy\l::DoSynchronizeWithEnb" alt="" coords="555,5,763,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a5d2559fe76f656a89bf2f9aea5e9b80e" title="ns3::mmwave::MmWaveUePhy\l::DoSynchronizeWithEnb" alt="" coords="811,5,1019,47"/>
+</map>

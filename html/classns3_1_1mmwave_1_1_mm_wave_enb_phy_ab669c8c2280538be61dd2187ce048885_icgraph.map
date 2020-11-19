@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveEnbPhy::GetDlSpectrumPhy" name="ns3::mmwave::MmWaveEnbPhy::GetDlSpectrumPhy">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a0fa912f45f6b11e3c18b4e68c8d8b163" title="ns3::mmwave::MmWaveEnbPhy\l::GetTypeId" alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a47afe71ef1dd3c30b2f5e53ae03b866a" title="ns3::mmwave::MmWaveEnbPhy\l::UpdateUeSinrEstimate" alt="" coords="268,71,483,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a34cd485e785a742f902cb6476b2a4b85" title="ns3::mmwave::MmWaveEnbPhy\l::DoInitialize" alt="" coords="531,71,745,112"/>
+</map>

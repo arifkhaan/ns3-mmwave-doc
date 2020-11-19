@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveFlexTtiMaxRateMacScheduler::UpdateDlRlcBufferInfo" name="ns3::mmwave::MmWaveFlexTtiMaxRateMacScheduler::UpdateDlRlcBufferInfo">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_scheduler.html#a463fd600075bc2a39947b9868ee75259" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacScheduler::DoSchedTriggerReq" alt="" coords="295,43,579,84"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_scheduler.html#a33c96bd876e4faf553889f59216f8347" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacScheduler::BufferSize2BsrId" alt="" coords="627,5,892,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_sched_sap_provider.html#aa57f2ead0fd3c793a2432ae51fc78f9f" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacSchedSapProvider\l::SchedTriggerReq" alt="" coords="655,71,863,127"/>
+</map>

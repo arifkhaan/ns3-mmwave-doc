@@ -1,0 +1,7 @@
+<map id="ns3::mmwave::MmWaveBearerStatsConnector::NotifyHandoverStartUe" name="ns3::mmwave::MmWaveBearerStatsConnector::NotifyHandoverStartUe">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#abd9e34ce88ad23cdb5ccc6efd7229cf7" title="Disconnects all trace sources at UE to RLC and PDCP calculators. " alt="" coords="268,71,512,112"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#aca75b403ef9a2ed2043adced7c2935e1" title="ns3::mmwave::MmWaveBearer\lStatsConnector::PrintUeStartHandover" alt="" coords="265,140,515,181"/>
+<area shape="rect" id="node3" href="$namespacens3_1_1mmwave.html#ae2baa93a300c151c72de1e67e1783cea" title="ns3::mmwave::SwitchToLte\lCallback" alt="" coords="591,5,777,47"/>
+<area shape="rect" id="node4" href="$namespacens3_1_1mmwave.html#a8f6a5320d9458b362c3e8dafed4804fb" title="ns3::mmwave::SwitchToMmWave\lCallback" alt="" coords="573,71,795,112"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a3cfc664b8f19137cc85fb9e44dd96804" title="ns3::mmwave::MmWaveBearer\lStatsConnector::GetUeHandoverStart\lOutputFilename" alt="" coords="563,137,805,193"/>
+</map>

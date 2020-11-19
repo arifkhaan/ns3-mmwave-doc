@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveEnbPhy::CreateTxPowerSpectralDensity" name="ns3::mmwave::MmWaveEnbPhy::CreateTxPowerSpectralDensity">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a6092e1df43210252dcaa422751b04e1f" title="ns3::mmwave::MmWaveEnbPhy\l::SetSubChannels" alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a34cd485e785a742f902cb6476b2a4b85" title="ns3::mmwave::MmWaveEnbPhy\l::DoInitialize" alt="" coords="531,5,745,47"/>
+</map>

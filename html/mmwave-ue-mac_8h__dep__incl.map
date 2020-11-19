@@ -1,0 +1,9 @@
+<map id="src/mmwave/model/mmwave&#45;ue&#45;mac.h" name="src/mmwave/model/mmwave&#45;ue&#45;mac.h">
+<area shape="rect" id="node2" href="$mmwave-ue-net-device_8h.html" title="src/mmwave/model/mmwave\l&#45;ue&#45;net&#45;device.h" alt="" coords="440,95,633,136"/>
+<area shape="rect" id="node8" href="$mmwave-ue-mac_8cc.html" title="src/mmwave/model/mmwave\l&#45;ue&#45;mac.cc" alt="" coords="657,95,851,136"/>
+<area shape="rect" id="node3" href="$mmwave-enb-net-device_8cc.html" title="src/mmwave/model/mmwave\l&#45;enb&#45;net&#45;device.cc" alt="" coords="5,184,199,225"/>
+<area shape="rect" id="node4" href="$mmwave-enb-phy_8cc.html" title="src/mmwave/model/mmwave\l&#45;enb&#45;phy.cc" alt="" coords="223,184,416,225"/>
+<area shape="rect" id="node5" href="$mmwave-rrc-protocol-ideal_8cc.html" title="src/mmwave/model/mmwave\l&#45;rrc&#45;protocol&#45;ideal.cc" alt="" coords="440,184,633,225"/>
+<area shape="rect" id="node6" href="$mmwave-ue-net-device_8cc.html" title="src/mmwave/model/mmwave\l&#45;ue&#45;net&#45;device.cc" alt="" coords="657,184,851,225"/>
+<area shape="rect" id="node7" href="$mmwave-ue-phy_8cc.html" title="src/mmwave/model/mmwave\l&#45;ue&#45;phy.cc" alt="" coords="875,184,1068,225"/>
+</map>

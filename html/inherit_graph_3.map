@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_my_app_tag.html" title="A script to simulate the DOWNLINK TCP data over mmWave links with the mmWave devices and the LTE EPC..." alt="" coords="174,5,259,32"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_mac_pdu_tag.html" title="ns3::mmwave::MmWaveMacPduTag" alt="" coords="97,56,336,83"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_radio_bearer_tag.html" title="Tag used to define the RNTI and LC id for each MAC packet trasmitted. " alt="" coords="115,107,318,149"/>
+</map>

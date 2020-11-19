@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveTdmaDciMessage" name="ns3::mmwave::MmWaveTdmaDciMessage">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_control_message.html" title="ns3::mmwave::MmWaveControl\lMessage" alt="" coords="295,5,505,47"/>
+<area shape="rect" id="node4" href="$structns3_1_1mmwave_1_1_sfn_sf.html" title="Struct holding the numerology information such as frame, subframe, slot and (eventually) starting OFD..." alt="" coords="327,71,473,98"/>
+<area shape="rect" id="node5" href="$structns3_1_1mmwave_1_1_dci_info_element_tdma.html" title="Struct holding the information of a DCI message. " alt="" coords="283,122,517,149"/>
+</map>

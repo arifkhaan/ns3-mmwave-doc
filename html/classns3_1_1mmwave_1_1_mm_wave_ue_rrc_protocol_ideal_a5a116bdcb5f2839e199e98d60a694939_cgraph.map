@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveUeRrcProtocolIdeal::DoSendRrcConnectionRequest" name="ns3::mmwave::MmWaveUeRrcProtocolIdeal::DoSendRrcConnectionRequest">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_rrc_protocol_ideal.html#a162c94505f5a88c55547b462c1c06233" title="ns3::mmwave::MmWaveUeRrc\lProtocolIdeal::SetEnbRrcSapProvider" alt="" coords="293,13,535,54"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_enb_rrc_protocol_ideal.html#a48aac63d613b3791b785f974e8d411d9" title="ns3::mmwave::MmWaveEnbRrc\lProtocolIdeal::SetUeRrcSapProvider" alt="" coords="583,13,817,54"/>
+</map>

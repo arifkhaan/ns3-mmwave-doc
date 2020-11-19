@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWavePhySapProvider::SetSlotAllocInfo" name="ns3::mmwave::MmWavePhySapProvider::SetSlotAllocInfo">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_mac.html#a1965bdf65259195a2becfd34093f51d8" title="ns3::mmwave::MmWaveEnbMac\l::DoSchedConfigIndication" alt="" coords="268,5,484,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_mac_member_mac_sched_sap_user.html#a8ac58c984cd5c188b66fb3f2b4aa9497" title="ns3::mmwave::MmWaveMacMember\lMacSchedSapUser::SchedConfigInd" alt="" coords="532,5,772,47"/>
+</map>

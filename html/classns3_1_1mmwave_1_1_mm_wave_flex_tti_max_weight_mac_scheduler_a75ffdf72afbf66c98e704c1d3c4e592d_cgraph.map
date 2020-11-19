@@ -1,0 +1,11 @@
+<map id="ns3::mmwave::MmWaveFlexTtiMaxWeightMacScheduler::DoSchedTriggerReq" name="ns3::mmwave::MmWaveFlexTtiMaxWeightMacScheduler::DoSchedTriggerReq">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler.html#abf87df2c9e21061e9cf8d018d091b200" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler::\lCompareFlowWeightsEdf" alt="" coords="273,5,481,61"/>
+<area shape="rect" id="node3" href="$structns3_1_1mmwave_1_1_sfn_sf.html#a446d01da03ddd676e8fbd024b78651fb" title="Encodes the struct into an uint64_t. " alt="" coords="304,86,449,127"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_value_helper.html#a105e28dbe27a67868973441d66d1fc81" title="ns3::mmwave::MmWaveSpectrum\lValueHelper::GetSpectrumModel" alt="" coords="265,151,489,193"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler.html#a14ab061c36e4935ef609e2d40847836f" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler::\lRefreshDlCqiMaps" alt="" coords="273,217,481,273"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler.html#a333bdc6401e431af4c101854a33ac9cf" title="Refresh HARQ processes according to the timers. " alt="" coords="273,297,481,353"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler.html#aa33c27ac6d155762adbb542c7a7f5ca7" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler::\lRefreshUlCqiMaps" alt="" coords="273,377,481,433"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_user.html#aa80733241e52381c341f175688403696" title="ns3::mmwave::MmWaveMacSched\lSapUser::SchedConfigInd" alt="" coords="261,458,492,499"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler.html#a00718aa7a46afb77f83c49a23cdd5139" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler::\lUpdateDlHarqProcessId" alt="" coords="273,524,481,580"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_scheduler.html#a137268f4895e0157858c3769573f2a12" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacScheduler::\lUpdateUlHarqProcessId" alt="" coords="273,604,481,660"/>
+</map>

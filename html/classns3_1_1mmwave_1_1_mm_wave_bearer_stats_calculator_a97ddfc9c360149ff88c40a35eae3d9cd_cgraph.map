@@ -1,0 +1,9 @@
+<map id="ns3::mmwave::MmWaveBearerStatsCalculator::WriteDlResults" name="ns3::mmwave::MmWaveBearerStatsCalculator::WriteDlResults">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a9bde49d6e17cd52d43538eb8a24536b2" title="Gets the attached Enb cellId. " alt="" coords="277,5,483,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#abb64abed696083e250e4f791ed0323b1" title="Gets the downlink RLC to RLC statistics: average, min, max and standard deviation. " alt="" coords="271,71,489,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a799c50f01e0fdddb1c53e6e717eb97e1" title="Gets the downlink PDU size statistics: average, min, max and standard deviation. " alt="" coords="263,136,497,177"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a68067bf2f86ef5a39c49a4a8ba24f216" title="Gets the number of received downlink data bytes. " alt="" coords="277,201,483,243"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a33060bfeee9fcc26ef649ee4ed77477b" title="Gets the number of received downlink data bytes. " alt="" coords="271,267,489,308"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a08584f64554e4d2500d8e02bba1758f4" title="Gets the number of transmitted downlink data bytes. " alt="" coords="277,332,483,373"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a091d081aae64d4adba00cb7c44e1fa30" title="Gets the number of transmitted downlink data bytes. " alt="" coords="271,397,489,439"/>
+</map>

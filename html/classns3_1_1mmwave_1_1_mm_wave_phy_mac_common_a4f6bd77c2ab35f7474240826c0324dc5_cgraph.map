@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWavePhyMacCommon::GetTypeId" name="ns3::mmwave::MmWavePhyMacCommon::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_phy_mac_common.html#a489e21afdac37f21a1e5360fc2f15de1" title="Sets the desired bandwidth for a given MmWavePhyMacCommon object. " alt="" coords="269,5,485,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_phy_mac_common.html#a25b2d5db18e0a5ff4d2bc66a61cf08f0" title="Configures the PHY layer parameters based on the desired numerology. " alt="" coords="269,71,485,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_phy_mac_common.html#ab3b8afe7dcb663e0368eceaaf8dca1c9" title="Makes a MmWavePhyMacCommon object NR&#45;compliant by adjusting its parameters. " alt="" coords="533,71,749,112"/>
+</map>

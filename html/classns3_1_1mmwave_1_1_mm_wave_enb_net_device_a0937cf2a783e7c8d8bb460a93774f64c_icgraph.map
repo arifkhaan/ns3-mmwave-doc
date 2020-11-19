@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveEnbNetDevice::GetCellId" name="ns3::mmwave::MmWaveEnbNetDevice::GetCellId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_point_to_point_epc_helper.html#adc818b60a8382bb9cd332b7f6608d8ae" title="ns3::mmwave::MmWavePoint\lToPointEpcHelper::AddX2Interface" alt="" coords="265,5,492,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a312cb95a8a5cc940c3b5f656e2200892" title="ns3::mmwave::MmWaveHelper\l::AttachIrToClosestEnb" alt="" coords="275,71,482,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#aebb8719bbe49edc16c33710bb196d13d" title="Attach to an eNB selecting which one with an index. " alt="" coords="275,136,482,177"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_helper.html#a187f01b3dbdc96c3ee21b2cebb53d209" title="ns3::mmwave::MmWaveHelper\l::AttachToClosestEnb" alt="" coords="540,136,747,177"/>
+</map>

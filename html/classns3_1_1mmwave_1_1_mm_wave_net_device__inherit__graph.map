@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveNetDevice" name="ns3::mmwave::MmWaveNetDevice">
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_enb_net_device.html" title="ns3::mmwave::MmWaveEnbNet\lDevice" alt="" coords="5,155,217,196"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_ue_net_device.html" title="ns3::mmwave::MmWaveUeNet\lDevice" alt="" coords="241,155,448,196"/>
+</map>

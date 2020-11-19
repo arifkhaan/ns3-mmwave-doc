@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveFlexTtiPfMacScheduler::UeSchedInfo" name="ns3::mmwave::MmWaveFlexTtiPfMacScheduler::UeSchedInfo">
+<area shape="rect" id="node3" href="$structns3_1_1mmwave_1_1_mm_wave_flex_tti_pf_mac_scheduler_1_1_flow_stats.html" title="ns3::mmwave::MmWaveFlexTti\lPfMacScheduler::FlowStats" alt="" coords="1217,170,1425,211"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="559,197,656,224"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="180,76,296,103"/>
+<area shape="rect" id="node10" href="$structns3_1_1mmwave_1_1_rlc_pdu_info.html" title="Struct used to schedule the transmission of RLC PDUs. " alt="" coords="149,127,327,153"/>
+</map>

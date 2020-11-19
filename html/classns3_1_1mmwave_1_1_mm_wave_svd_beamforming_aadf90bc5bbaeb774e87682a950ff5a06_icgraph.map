@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveSvdBeamforming::GetFirstEigenvector" name="ns3::mmwave::MmWaveSvdBeamforming::GetFirstEigenvector">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_svd_beamforming.html#a57c65a8a5eec8d70d7cec8c234f7ba9d" title="Compute the beamforming vectors using SVD. " alt="" coords="321,5,589,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_svd_beamforming.html#af18208a90b5397f434eed57eced8a567" title="Computes the beamforming vector to communicate with the target device and sets the antenna..." alt="" coords="637,5,905,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ns3::mmwave::MmWaveBearerStatsConnector::NotifyHandoverEndOkEnb" name="ns3::mmwave::MmWaveBearerStatsConnector::NotifyHandoverEndOkEnb">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a9a4be43316a6588e507eb385accd7102" title="Connects DRBs trace sources at eNB to RLC and PDCP calculators. " alt="" coords="268,71,523,112"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#aa621cb82b5fa4f62ccfadf39d3a1eecc" title="Connects SRB1 trace sources at eNB to RLC and PDCP calculators. " alt="" coords="265,5,525,47"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a45368e9d7ee433357e4d6f78bffec9a7" title="ns3::mmwave::MmWaveBearer\lStatsConnector::PrintEnbEndHandover" alt="" coords="270,136,521,177"/>
+<area shape="rect" id="node3" href="$namespacens3_1_1mmwave.html#aa17f39007f2f5bf006cf0b692d7eddac" title="Callback function for DL TX statistics for both RLC and PDCP /param arg /param path /param rnti /para..." alt="" coords="577,71,791,98"/>
+<area shape="rect" id="node4" href="$namespacens3_1_1mmwave.html#a16bb43a4d55a7f0c4060fd948ab7b760" title="Callback function for UL RX statistics for both RLC and PDCP /param arg /param path /param rnti /para..." alt="" coords="576,17,792,43"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#aaad2ad0a43a8fde942b82f8a6fe11dff" title="ns3::mmwave::MmWaveBearer\lStatsConnector::GetEnbHandover\lEndOutputFilename" alt="" coords="573,129,795,185"/>
+</map>

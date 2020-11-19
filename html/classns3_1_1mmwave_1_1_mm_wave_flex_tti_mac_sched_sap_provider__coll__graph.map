@@ -1,0 +1,17 @@
+<map id="ns3::mmwave::MmWaveFlexTtiMacSchedSapProvider" name="ns3::mmwave::MmWaveFlexTtiMacSchedSapProvider">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_provider.html" title="ns3::mmwave::MmWaveMacSched\lSapProvider" alt="" coords="1497,5,1727,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_mac_scheduler.html" title="ns3::mmwave::MmWaveFlexTti\lMacScheduler" alt="" coords="1976,633,2184,675"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_mac_scheduler.html" title="ns3::mmwave::MmWaveMacScheduler" alt="" coords="1487,255,1737,282"/>
+<area shape="rect" id="node7" href="$structns3_1_1mmwave_1_1_dl_harq_info.html" title="Struct holding the information of a DL HARQ process. " alt="" coords="149,1427,324,1454"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="179,947,295,974"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="1043,614,1166,641"/>
+<area shape="rect" id="node35" title="STL class. " alt="" coords="188,234,285,261"/>
+<area shape="rect" id="node15" href="$structns3_1_1mmwave_1_1_ul_harq_info.html" title="Struct holding the information of an UL HARQ process. " alt="" coords="149,57,324,83"/>
+<area shape="rect" id="node17" href="$structns3_1_1mmwave_1_1_mm_wave_flex_tti_mac_scheduler_1_1_alloc_map_elem.html" title="ns3::mmwave::MmWaveFlexTti\lMacScheduler::AllocMapElem" alt="" coords="1001,1028,1209,1069"/>
+<area shape="rect" id="node19" href="$classns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_provider.html" title="Provides the CSCHED SAP. " alt="" coords="1493,633,1731,675"/>
+<area shape="rect" id="node38" href="$structns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_provider_1_1_csched_cell_config_req_parameters.html" title="Parameters of the API primitives. " alt="" coords="1493,1338,1731,1394"/>
+<area shape="rect" id="node25" href="$structns3_1_1mmwave_1_1_mm_wave_flex_tti_mac_scheduler_1_1_ul_cqi_map_elem.html" title="ns3::mmwave::MmWaveFlexTti\lMacScheduler::UlCqiMapElem" alt="" coords="1001,1125,1209,1167"/>
+<area shape="rect" id="node29" href="$classns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_user.html" title="ns3::mmwave::MmWaveMacCsched\lSapUser" alt="" coords="1493,1207,1731,1248"/>
+<area shape="rect" id="node30" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_user.html" title="ns3::mmwave::MmWaveMacSched\lSapUser" alt="" coords="1497,1272,1727,1313"/>
+<area shape="rect" id="node33" href="$structns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_provider_1_1_sched_dl_rlc_buffer_req_parameters.html" title="ns3::mmwave::MmWaveMacSched\lSapProvider::SchedDlRlcBufferReq\lParameters" alt="" coords="989,191,1220,247"/>
+</map>

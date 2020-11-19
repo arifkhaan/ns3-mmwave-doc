@@ -1,0 +1,10 @@
+<map id="ns3::mmwave::MmWaveControlMessage" name="ns3::mmwave::MmWaveControlMessage">
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bsr_message.html" title="The uplink BsrLteControlMessage defines the specific extension of the CE element for reporting the bu..." alt="" coords="547,5,788,32"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_dl_cqi_message.html" title="ns3::mmwave::MmWaveDlCqi\lMessage" alt="" coords="567,57,768,98"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_dl_harq_feedback_message.html" title="The downlink MmwaveDlHarqFeedbackMessage defines the specific messages for transmitting the DL HARQ f..." alt="" coords="563,122,772,163"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_mib_message.html" title="Abstract model for broadcasting the Master Information Block (MIB) within the control channel (BCCH)..." alt="" coords="546,188,789,215"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_rach_preamble_message.html" title="abstract model for the Random Access Preamble " alt="" coords="540,239,795,281"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_rar_message.html" title="abstract model for the MAC Random Access Response message " alt="" coords="546,305,789,332"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_sib1_message.html" title="Abstract model for broadcasting the System Information Block Type 1 (SIB1) within the control channel..." alt="" coords="544,356,791,383"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_tdma_dci_message.html" title="ns3::mmwave::MmWaveTdmaDci\lMessage" alt="" coords="557,407,778,449"/>
+</map>

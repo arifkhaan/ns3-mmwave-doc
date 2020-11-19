@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveBearerStatsConnector::NotifyLteSinr" name="ns3::mmwave::MmWaveBearerStatsConnector::NotifyLteSinr">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#ac8b344a58082ce88ce1b356c2dd0de56" title="ns3::mmwave::MmWaveBearer\lStatsConnector::PrintLteSinr" alt="" coords="260,13,467,54"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a0851fa32905d0e5e023c0340b898742b" title="ns3::mmwave::MmWaveBearer\lStatsConnector::GetLteSinrOutput\lFilename" alt="" coords="515,5,737,61"/>
+</map>

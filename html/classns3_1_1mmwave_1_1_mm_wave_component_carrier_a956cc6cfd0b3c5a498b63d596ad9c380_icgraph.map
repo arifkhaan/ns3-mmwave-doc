@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveComponentCarrier::DoDispose" name="ns3::mmwave::MmWaveComponentCarrier::DoDispose">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier_ue.html#a86fee832f68e3ac6d5321555029b9ccd" title="ns3::mmwave::MmWaveComponent\lCarrierUe::DoDispose" alt="" coords="288,5,523,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_component_carrier_enb.html#a7350fba5e1faae7613f2a001b35406ba" title="ns3::mmwave::MmWaveComponent\lCarrierEnb::DoDispose" alt="" coords="288,71,523,112"/>
+</map>

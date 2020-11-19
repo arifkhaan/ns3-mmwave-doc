@@ -1,0 +1,10 @@
+<map id="ns3::mmwave::MmWaveControlMessage::SetMessageType" name="ns3::mmwave::MmWaveControlMessage::SetMessageType">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bsr_message.html#a5c6ceee36e05eb9d271a495e13176570" title="ns3::mmwave::MmWaveBsrMessage\l::MmWaveBsrMessage" alt="" coords="291,5,532,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_dl_cqi_message.html#a9f20e3181bab1237f8aa2737266408cb" title="ns3::mmwave::MmWaveDlCqi\lMessage::MmWaveDlCqiMessage" alt="" coords="299,71,524,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_dl_harq_feedback_message.html#a69befc3eddf7d2aaf5eab5416d684582" title="ns3::mmwave::MmWaveDlHarq\lFeedbackMessage::MmWaveDlHarqFeedback\lMessage" alt="" coords="264,137,559,193"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_mib_message.html#a1acb5ecee1d5c425070bcc8903d2734e" title="Create a new instance of MIB control message. " alt="" coords="290,217,533,259"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_rach_preamble_message.html#a2d8548743305c25c3d8b43192e8f9ebe" title="ns3::mmwave::MmWaveRachPreamble\lMessage::MmWaveRachPreambleMessage" alt="" coords="272,283,551,324"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_rar_message.html#a5ac9b7add7493928491b3c22ebda5e94" title="ns3::mmwave::MmWaveRarMessage\l::MmWaveRarMessage" alt="" coords="290,348,533,389"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_sib1_message.html#ad62d990cc5d6e7e4219414cbc3034a3d" title="Create a new instance of SIB1 control message. " alt="" coords="288,413,535,455"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_tdma_dci_message.html#adf4915146e9b845e8e820d8f37b6d696" title="ns3::mmwave::MmWaveTdmaDci\lMessage::MmWaveTdmaDciMessage" alt="" coords="289,479,534,520"/>
+</map>

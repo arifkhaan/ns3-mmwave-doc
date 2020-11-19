@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWavePropagationLossModel::GetTypeId" name="ns3::mmwave::MmWavePropagationLossModel::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_propagation_loss_model.html#ad3cb64ee5ed01bcf777e60c58f41992b" title="ns3::mmwave::MmWavePropagation\lLossModel::GetMinLoss" alt="" coords="291,5,528,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_propagation_loss_model.html#a10222695f3f82356f4399e009af0d9ff" title="ns3::mmwave::MmWavePropagation\lLossModel::SetMinLoss" alt="" coords="291,71,528,112"/>
+</map>

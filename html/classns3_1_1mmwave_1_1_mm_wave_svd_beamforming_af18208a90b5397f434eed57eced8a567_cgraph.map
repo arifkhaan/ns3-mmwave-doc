@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveSvdBeamforming::SetBeamformingVectorForDevice" name="ns3::mmwave::MmWaveSvdBeamforming::SetBeamformingVectorForDevice">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_svd_beamforming.html#a57c65a8a5eec8d70d7cec8c234f7ba9d" title="Compute the beamforming vectors using SVD. " alt="" coords="321,5,589,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_svd_beamforming.html#aadf90bc5bbaeb774e87682a950ff5a06" title="Compute eigenvector related to highest eigenvalue. " alt="" coords="637,5,905,47"/>
+</map>

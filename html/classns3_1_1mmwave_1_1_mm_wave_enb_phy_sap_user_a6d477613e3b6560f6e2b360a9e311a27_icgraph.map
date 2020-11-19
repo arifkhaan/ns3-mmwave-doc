@@ -1,0 +1,7 @@
+<map id="ns3::mmwave::MmWaveEnbPhySapUser::SlotIndication" name="ns3::mmwave::MmWaveEnbPhySapUser::SlotIndication">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#ad0d14d4f4962f48bcfb0e8a7aa18fea9" title="Marks the beginning of a new Transmission Time Interval (TTI). " alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#abc98621373cf4af85fbfd5b31288eb75" title="Marks the end of the current Transmission Time Interval (TTI). " alt="" coords="1056,5,1271,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a5ff5806928a5883f3e5a7a85f3fdd544" title="Marks the beginning of a new NR slot. " alt="" coords="531,76,745,117"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#adfab48c90781fb4a7df7d0b8e5423025" title="Marks the end of the current NR slot. " alt="" coords="793,76,1008,117"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a8c3ff470f1fde359cd93d96c9b00e59e" title="ns3::mmwave::MmWaveEnbPhy\l::MmWaveEnbPhy" alt="" coords="793,141,1008,183"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ns3::mmwave::McUeNetDevice::GetTypeId" name="ns3::mmwave::McUeNetDevice::GetTypeId">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#af403daa34d46014230c937f7f843e6ef" title="ns3::mmwave::McUeNetDevice\l::GetAntennaNum" alt="" coords="263,5,472,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#a699ad5d494dcdb75795bfe5871bd00fb" title="Returns the CSG ID the UE is currently a member of. " alt="" coords="263,71,472,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#a5c45d9e7c344d11043929df26c7e2499" title="ns3::mmwave::McUeNetDevice\l::GetLteDlEarfcn" alt="" coords="263,136,472,177"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#aa585fdc893773219b2900b9c49086a04" title="ns3::mmwave::McUeNetDevice\l::GetMtu" alt="" coords="263,201,472,243"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#a8b919454187f6a79cc08d5fc809c7496" title="ns3::mmwave::McUeNetDevice\l::SetAntennaNum" alt="" coords="263,267,472,308"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#a21c1f0903276c8457e571eeb6e48496e" title="Enlist the UE device as a member of a particular CSG. " alt="" coords="263,332,472,373"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#ae253b36009a84aa673383e1c34a1f3e3" title="ns3::mmwave::McUeNetDevice\l::SetLteDlEarfcn" alt="" coords="263,397,472,439"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#af7f2245c4e87531d7c9fc39083f38eaf" title="ns3::mmwave::McUeNetDevice\l::SetMtu" alt="" coords="263,463,472,504"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mc_ue_net_device.html#a9c1ad55dff0ae67a685bb163b45ff221" title="Propagate attributes and configuration to sub&#45;modules. " alt="" coords="520,332,729,373"/>
+</map>

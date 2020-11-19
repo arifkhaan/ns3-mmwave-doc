@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveFlexTtiMacCschedSapProvider::CschedCellConfigReq" name="ns3::mmwave::MmWaveFlexTtiMacCschedSapProvider::CschedCellConfigReq">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_mac_scheduler.html#a51d0c9ee17481f6896f2fceff4d3bb28" title="ns3::mmwave::MmWaveFlexTti\lMacScheduler::DoCschedCellConfigReq" alt="" coords="292,13,552,54"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_mac_csched_sap_user.html#a444bcf6b945cf22d7eaa3e9fd2aded66" title="ns3::mmwave::MmWaveMacCsched\lSapUser::CschedUeConfigCnf" alt="" coords="600,13,839,54"/>
+</map>

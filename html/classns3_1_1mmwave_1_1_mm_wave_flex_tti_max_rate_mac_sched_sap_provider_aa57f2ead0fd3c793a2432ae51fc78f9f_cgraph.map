@@ -1,0 +1,12 @@
+<map id="ns3::mmwave::MmWaveFlexTtiMaxRateMacSchedSapProvider::SchedTriggerReq" name="ns3::mmwave::MmWaveFlexTtiMaxRateMacSchedSapProvider::SchedTriggerReq">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_scheduler.html#a463fd600075bc2a39947b9868ee75259" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacScheduler::DoSchedTriggerReq" alt="" coords="261,311,545,353"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_scheduler.html#a81ab9eb7a27a865ba7015e7aa5ba089d" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacScheduler::RefreshDl\lCqiMaps" alt="" coords="605,5,831,61"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_scheduler.html#a62b64f89ec718c6f63e91544a6233e2f" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacScheduler::RefreshUl\lCqiMaps" alt="" coords="605,85,831,141"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_scheduler.html#a77a7edff578b1b42b0206d2dfafc647c" title="Refresh HARQ processes according to the timers. " alt="" coords="598,165,838,221"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_mac_sched_sap_user.html#aa80733241e52381c341f175688403696" title="ns3::mmwave::MmWaveMacSched\lSapUser::SchedConfigInd" alt="" coords="603,246,833,287"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_value_helper.html#a105e28dbe27a67868973441d66d1fc81" title="ns3::mmwave::MmWaveSpectrum\lValueHelper::GetSpectrumModel" alt="" coords="606,311,830,353"/>
+<area shape="rect" id="node8" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_scheduler.html#a04a42a847c55b8285cfcc76315a3e046" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacScheduler::UpdateDlHarq\lProcessId" alt="" coords="593,377,843,433"/>
+<area shape="rect" id="node9" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_scheduler.html#a18d0f8862e0d375e7296fd4caae1d681" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacScheduler::UpdateDlRlc\lBufferInfo" alt="" coords="597,457,839,513"/>
+<area shape="rect" id="node10" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_scheduler.html#a43757ca6f192de37fb3c3992b91f52e7" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacScheduler::UpdateUlHarq\lProcessId" alt="" coords="593,537,843,593"/>
+<area shape="rect" id="node11" href="$structns3_1_1mmwave_1_1_sfn_sf.html#a446d01da03ddd676e8fbd024b78651fb" title="Encodes the struct into an uint64_t. " alt="" coords="645,618,791,659"/>
+</map>

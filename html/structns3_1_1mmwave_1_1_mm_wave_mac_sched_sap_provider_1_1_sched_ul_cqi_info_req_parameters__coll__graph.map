@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveMacSchedSapProvider::SchedUlCqiInfoReqParameters" name="ns3::mmwave::MmWaveMacSchedSapProvider::SchedUlCqiInfoReqParameters">
+<area shape="rect" id="node2" href="$structns3_1_1mmwave_1_1_sfn_sf.html" title="Struct holding the numerology information such as frame, subframe, slot and (eventually) starting OFD..." alt="" coords="9,273,155,300"/>
+<area shape="rect" id="node3" href="$structns3_1_1mmwave_1_1_ul_cqi_info.html" title="Struct carrying a downlink CQI. " alt="" coords="179,273,345,300"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="204,95,320,121"/>
+</map>

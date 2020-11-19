@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::UeMemberMmWaveMacSapProvider::TransmitPdu" name="ns3::mmwave::UeMemberMmWaveMacSapProvider::TransmitPdu">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_ue_mac.html#acb1639d56f37436fdeadc61299d3d28c" title="ns3::mmwave::MmWaveUeMac\l::DoTransmitPdu" alt="" coords="285,71,496,112"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_mac_pdu_tag.html#a5544ebd75b09cf672a379039dccd76e3" title="ns3::mmwave::MmWaveMacPdu\lTag::GetSfn" alt="" coords="544,5,760,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_mac_pdu_header.html#ae463fea5f8d9292a2a3f0baadc7e8d29" title="ns3::mmwave::MmWaveMacPdu\lHeader::GetSubheaders" alt="" coords="544,71,760,112"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_phy_sap_provider.html#a3b87be47ef2a33d800c38c2a0f0bc045" title="ns3::mmwave::MmWavePhySap\lProvider::SendMacPdu" alt="" coords="545,136,759,177"/>
+</map>

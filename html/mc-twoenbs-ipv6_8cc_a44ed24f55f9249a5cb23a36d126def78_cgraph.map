@@ -1,0 +1,23 @@
+<map id="GenerateBuildingBounds" name="GenerateBuildingBounds">
+<area shape="rect" id="node2" href="$mc-twoenbs-ipv6_8cc.html#a71c0dc665791cd635a5ee62eedabdc21" title="g_bufferSize" alt="" coords="293,5,388,32"/>
+<area shape="rect" id="node3" href="$mc-twoenbs-ipv6_8cc.html#a007b04a6651ffa43e38be23cbc4bd3d2" title="g_handoverMode" alt="" coords="280,56,401,83"/>
+<area shape="rect" id="node4" href="$mc-twoenbs-ipv6_8cc.html#a0798b8e2792d98151aafc23161eed8be" title="g_interPckInterval" alt="" coords="277,107,404,133"/>
+<area shape="rect" id="node5" href="$mc-twoenbs-ipv6_8cc.html#afb5964571b595a6674084ee79cc103a9" title="g_lteUplink" alt="" coords="297,157,384,184"/>
+<area shape="rect" id="node6" href="$mc-twoenbs-ipv6_8cc.html#af3c33e8c221e482dd3c1e10e261defe9" title="g_maxXAxis" alt="" coords="293,208,389,235"/>
+<area shape="rect" id="node7" href="$mc-twoenbs-ipv6_8cc.html#a3fa3b1ef0123e0240a59fd075dbc8163" title="g_maxYAxis" alt="" coords="293,259,389,285"/>
+<area shape="rect" id="node8" href="$mc-twoenbs-ipv6_8cc.html#ac22a3add80d7ce4ce64e43df9a3868e3" title="g_mmeLatency" alt="" coords="285,309,396,336"/>
+<area shape="rect" id="node9" href="$mc-twoenbs-ipv6_8cc.html#a0d122318fa10a9d96028e882e3c6c4c5" title="g_mmw1DistFromMainStreet" alt="" coords="245,360,437,387"/>
+<area shape="rect" id="node10" href="$mc-twoenbs-ipv6_8cc.html#ab2d5f3a07f210927dfadd8bd59bece91" title="g_mmw2DistFromMainStreet" alt="" coords="245,411,437,437"/>
+<area shape="rect" id="node11" href="$mc-twoenbs-ipv6_8cc.html#a3c90ab10d3b21281fe8ef8f4e6f2e75f" title="g_mmw3DistFromMainStreet" alt="" coords="245,461,437,488"/>
+<area shape="rect" id="node12" href="$mc-twoenbs-ipv6_8cc.html#a1df6ef7ee9b1be5bcb0acfc83b6cf93d" title="g_mmWaveDistance" alt="" coords="269,512,413,539"/>
+<area shape="rect" id="node13" href="$mc-twoenbs-ipv6_8cc.html#a745b9be2e511601ae8ceb5b6358fb020" title="g_mobileUeSpeed" alt="" coords="277,563,405,589"/>
+<area shape="rect" id="node14" href="$mc-twoenbs-ipv6_8cc.html#a8c63367293812acb97e204935bd8d4c5" title="g_noiseAndFilter" alt="" coords="281,613,400,640"/>
+<area shape="rect" id="node15" href="$mc-twoenbs-ipv6_8cc.html#a293dcf85328604d139a430aaffd51096" title="g_numBuildingsBetweenMmWaveEnb" alt="" coords="219,664,463,691"/>
+<area shape="rect" id="node16" href="$mc-twoenbs-ipv6_8cc.html#a1822fafba37d27d97dc354a44f543c6c" title="g_outageThreshold" alt="" coords="275,715,407,741"/>
+<area shape="rect" id="node17" href="$mc-twoenbs-ipv6_8cc.html#a213aa240d086658290fd587ecf430a66" title="g_outPath" alt="" coords="300,765,381,792"/>
+<area shape="rect" id="node18" href="$mc-twoenbs-ipv6_8cc.html#a2d7cb6604c0bf22faddaffaac7c47c01" title="g_reportTablePeriodicity" alt="" coords="259,816,422,843"/>
+<area shape="rect" id="node19" href="$mc-twoenbs-ipv6_8cc.html#ad7e1dde97e5ed171162cb38109927e54" title="g_rlcAmEnabled" alt="" coords="282,867,399,893"/>
+<area shape="rect" id="node20" href="$mc-twoenbs-ipv6_8cc.html#af4a2857d7ba0dfc5620d60d0a6c0cd3c" title="g_x2Latency" alt="" coords="293,917,389,944"/>
+<area shape="rect" id="node21" href="$mc-twoenbs-ipv6_8cc.html#a08eb26a4a36d9f76efe4b37c2815cb11" title="OverlapWithAnyPrevious" alt="" coords="257,968,425,995"/>
+<area shape="rect" id="node22" href="$mc-twoenbs-ipv6_8cc.html#a1afb216dd9cb3e096360a211c59259dd" title="AreOverlapping" alt="" coords="511,968,621,995"/>
+</map>

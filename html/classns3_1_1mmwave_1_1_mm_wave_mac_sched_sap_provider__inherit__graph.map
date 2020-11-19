@@ -1,0 +1,6 @@
+<map id="ns3::mmwave::MmWaveMacSchedSapProvider" name="ns3::mmwave::MmWaveMacSchedSapProvider">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_mac_sched_sap_provider.html" title="ns3::mmwave::MmWaveFlexTti\lMacSchedSapProvider" alt="" coords="291,5,499,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_rate_mac_sched_sap_provider.html" title="ns3::mmwave::MmWaveFlexTti\lMaxRateMacSchedSapProvider" alt="" coords="291,71,499,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_max_weight_mac_sched_sap_provider.html" title="ns3::mmwave::MmWaveFlexTti\lMaxWeightMacSchedSapProvider" alt="" coords="284,136,505,177"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_flex_tti_pf_mac_sched_sap_provider.html" title="ns3::mmwave::MmWaveFlexTti\lPfMacSchedSapProvider" alt="" coords="291,201,499,243"/>
+</map>

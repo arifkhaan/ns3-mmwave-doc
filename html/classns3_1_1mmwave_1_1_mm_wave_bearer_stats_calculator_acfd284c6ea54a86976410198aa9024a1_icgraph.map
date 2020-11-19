@@ -1,0 +1,7 @@
+<map id="ns3::mmwave::MmWaveBearerStatsCalculator::GetUlTxData" name="ns3::mmwave::MmWaveBearerStatsCalculator::GetUlTxData">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a739ce6fcffe3b117090b171261f9023f" title="Writes collected statistics to UL output file and closes UL output file. " alt="" coords="260,39,469,80"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a818d43c168784df2f6618d2315c40b2b" title="Called after each epoch to write collected statistics to output files. " alt="" coords="517,39,724,80"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a9603ebca97f30b1ca41d0be7c0879966" title="ns3::mmwave::MmWaveBearer\lStatsCalculator::DoDispose" alt="" coords="772,5,979,47"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#a16cc16f123044fda7d3164ac436e2152" title="Function called in every endEpochEvent. " alt="" coords="772,71,979,112"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_calculator.html#ab024d3f1107b34f740e862aa29485496" title="Reschedules EndEpoch event. " alt="" coords="1027,71,1276,112"/>
+</map>

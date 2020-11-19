@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveEnbPhy::MakeFilter" name="ns3::mmwave::MmWaveEnbPhy::MakeFilter">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a47afe71ef1dd3c30b2f5e53ae03b866a" title="ns3::mmwave::MmWaveEnbPhy\l::UpdateUeSinrEstimate" alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a34cd485e785a742f902cb6476b2a4b85" title="ns3::mmwave::MmWaveEnbPhy\l::DoInitialize" alt="" coords="531,5,745,47"/>
+</map>

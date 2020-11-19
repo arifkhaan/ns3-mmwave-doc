@@ -1,0 +1,7 @@
+<map id="ns3::mmwave::MmWaveSpectrumValueHelper::CreateNoisePowerSpectralDensity" name="ns3::mmwave::MmWaveSpectrumValueHelper::CreateNoisePowerSpectralDensity">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a34cd485e785a742f902cb6476b2a4b85" title="ns3::mmwave::MmWaveEnbPhy\l::DoInitialize" alt="" coords="575,5,789,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a3e77b8dc3b5bc4c1a4f0aab33767a726" title="ns3::mmwave::MmWaveUePhy\l::RegisterToEnb" alt="" coords="315,100,523,141"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_enb_phy.html#a47afe71ef1dd3c30b2f5e53ae03b866a" title="ns3::mmwave::MmWaveEnbPhy\l::UpdateUeSinrEstimate" alt="" coords="312,35,527,76"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a446038380e8c88cac0fa893a94708cea" title="ns3::mmwave::MmWaveUePhy\l::DoSynchronizeWithEnb" alt="" coords="578,100,786,141"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_ue_phy.html#a5d2559fe76f656a89bf2f9aea5e9b80e" title="ns3::mmwave::MmWaveUePhy\l::DoSynchronizeWithEnb" alt="" coords="837,100,1045,141"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ns3::mmwave::MmWaveBearerStatsConnector::NotifySecondaryMmWaveEnbAvailable" name="ns3::mmwave::MmWaveBearerStatsConnector::NotifySecondaryMmWaveEnbAvailable">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a5561380cb684a899c54cfcd1bd7bc531" title="Creates UE Manager path and stores it in m_ueManagerPathByCellIdRnti. " alt="" coords="272,71,519,112"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#aed20e0a0325d958eb66427db2613eb97" title="Function hooked to NewUeContext trace source at eNB RRC, which is fired upon creation of a new UE con..." alt="" coords="567,71,836,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a6770c663cb65018ff3af0821fb380f3e" title="Connects trace sinks to appropriate trace sources. " alt="" coords="884,71,1109,112"/>
+<area shape="rect" id="node5" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a3f0c9b40c92a5788bb98a7165fe01c0f" title="ns3::mmwave::MmWaveBearer\lStatsConnector::EnableMcStats" alt="" coords="1163,5,1374,47"/>
+<area shape="rect" id="node6" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#adea3e27fd413595f4a656501885bb244" title="Enables trace sinks for PDCP layer. " alt="" coords="1157,71,1380,112"/>
+<area shape="rect" id="node7" href="$classns3_1_1mmwave_1_1_mm_wave_bearer_stats_connector.html#a14f7e093713cfcbf836b3b4f19575a12" title="Enables trace sinks for RLC layer. " alt="" coords="1163,136,1375,177"/>
+</map>

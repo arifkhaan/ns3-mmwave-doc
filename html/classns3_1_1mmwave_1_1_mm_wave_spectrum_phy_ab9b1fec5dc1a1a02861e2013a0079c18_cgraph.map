@@ -1,0 +1,5 @@
+<map id="ns3::mmwave::MmWaveSpectrumPhy::StartTxDlControlFrames" name="ns3::mmwave::MmWaveSpectrumPhy::StartTxDlControlFrames">
+<area shape="rect" id="node2" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#ae2cdb4e63d85c1685eabf286ce99e713" title="change the state " alt="" coords="549,5,773,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#a6887eb6201989aa73b031d9c08901957" title="ns3::mmwave::MmWaveSpectrum\lPhy::EndTx" alt="" coords="277,35,501,76"/>
+<area shape="rect" id="node4" href="$classns3_1_1mmwave_1_1_mm_wave_spectrum_phy.html#a82f779151f048105e27b1abd002cb105" title="This function is used by SpectrumChannel to account for the antenna gain. " alt="" coords="277,100,501,141"/>
+</map>

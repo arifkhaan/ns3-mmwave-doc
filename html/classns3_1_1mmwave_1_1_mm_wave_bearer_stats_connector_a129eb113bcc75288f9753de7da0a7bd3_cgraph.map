@@ -1,0 +1,4 @@
+<map id="ns3::mmwave::MmWaveBearerStatsConnector::ConnectSecondaryTracesUe" name="ns3::mmwave::MmWaveBearerStatsConnector::ConnectSecondaryTracesUe">
+<area shape="rect" id="node2" href="$namespacens3_1_1mmwave.html#a73721167434790a50528cc414edb6529" title="Callback function for DL RX statistics for both RLC and PDCP /param arg /param path /param rnti /para..." alt="" coords="285,5,501,32"/>
+<area shape="rect" id="node3" href="$namespacens3_1_1mmwave.html#afc29696b6f065e8216a26833930573a6" title="Callback function for UL TX statistics for both RLC and PDCP /param arg /param path /param rnti /para..." alt="" coords="286,56,501,83"/>
+</map>
